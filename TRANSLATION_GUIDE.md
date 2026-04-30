@@ -58,10 +58,12 @@ Cập nhật: 2026-04-30
 | Dig              | Đào               |                                             |
 | Build            | Xây               |                                             |
 | Deconstruct      | Tháo gỡ           |                                             |
-| Demolish         | Gỡ                |                                             |
+| Demolish         | Phá hủy            |                                             |
 | Harvest          | Thu hoạch          |                                             |
-| Deliver          | Vận chuyển         |                                             |
-| Store            | Cất đồ / Chứa    | "Cất đồ" cho errand, "Chứa" cho mô tả building |
+| Deliver          | Vận chuyển         | KHÔNG dùng "ship", "giao"                   |
+| Store            | Cất đồ / Chứa    | "Cất đồ" cho errand, "Chứa" cho mô tả building. KHÔNG dùng "lưu trữ" |
+| Storage Bin      | Thùng chứa đồ     |                                             |
+| Smart Storage    | Thùng/Kho chứa thông minh |                                      |
 
 ## Quy tắc đặc biệt
 
@@ -93,3 +95,9 @@ Cập nhật: 2026-04-30
 - **Mô tả building**: rõ ràng, đầy đủ thông tin
 - **Thông báo / tooltip**: có thể hài hước nhẹ, đúng tinh thần game
 - **Codex / Lore**: nghiêm túc hơn, văn phong kể chuyện
+
+### 6. Chính tả
+- Dùng dấu sắc (hóa), KHÔNG dùng dấu hỏi (hoá): `oxy hóa`, `thuần hóa`, `mở khóa`
+- `căng thẳng` → dùng `stress` (thuật ngữ game)
+- `lưu trữ` → chỉ dùng khi đúng nghĩa archive/data. Dùng `chứa` hoặc `cất đồ` cho game storage
+- KHÔNG dùng tiếng Anh xen lẫn (ship, store...) trừ thuật ngữ giữ nguyên ở mục 2
