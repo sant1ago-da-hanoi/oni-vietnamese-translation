@@ -61,7 +61,7 @@ Cập nhật: 2026-04-30
 | Demolish         | Gỡ                |                                             |
 | Harvest          | Thu hoạch          |                                             |
 | Deliver          | Vận chuyển         |                                             |
-| Store            | Lưu trữ           |                                             |
+| Store            | Cất đồ / Chứa    | "Cất đồ" cho errand, "Chứa" cho mô tả building |
 
 ## Quy tắc đặc biệt
 
