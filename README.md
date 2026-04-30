@@ -1,0 +1,56 @@
+# 🇻🇳 Oxygen Not Included — Bản Dịch Tiếng Việt
+
+![Oxygen Not Included](preview.png)
+
+Bản dịch tiếng Việt cho **Oxygen Not Included** của Klei Entertainment.
+
+## Tiến độ
+
+```
+████████████████████░░░░░░░░░░  14,004 / 20,323 chuỗi (68.9%)
+```
+
+## Cài đặt
+
+### Steam Workshop (khuyến nghị)
+
+1. Đăng ký mod **[\[Tiếng Việt\] VN Language Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=2566414917)** trên Steam Workshop
+2. Bật mod trong game, khởi động lại
+3. Vào **Settings → Language** chọn **Tiếng Việt**
+
+### Cài thủ công
+
+1. Tải `strings.po` và `strings.mo` từ repo này
+2. Copy vào thư mục mod của game:
+   ```
+   # macOS
+   ~/Library/Application Support/Steam/steamapps/common/OxygenNotIncluded/OxygenNotIncluded.app/Contents/Resources/Data/StreamingAssets/strings/
+
+   # Windows
+   C:\Program Files (x86)\Steam\steamapps\common\OxygenNotIncluded\OxygenNotIncluded_Data\StreamingAssets\strings\
+   ```
+3. Khởi động lại game
+
+## Build
+
+Yêu cầu: `gettext`
+
+```bash
+make build    # Compile strings.po → strings.mo
+make check    # Kiểm tra lỗi + thống kê
+make stats    # Xem tiến độ dịch
+make merge    # Cập nhật strings.po từ template mới
+make clean    # Xóa file .mo
+```
+
+## Đóng góp
+
+Mọi đóng góp đều được hoan nghênh! Bạn có thể:
+
+- **Dịch trực tiếp**: Fork repo → sửa `strings.po` → tạo Pull Request
+- **Báo lỗi dịch**: Mở [Issue](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation/issues) mô tả lỗi
+- **Dùng Poedit**: Mở `strings.po` bằng [Poedit](https://poedit.net/) để dịch với giao diện trực quan
+
+## Giấy phép
+
+[MIT](LICENSE) — Nguyễn Cao Hoài Nam ([@sant1ago](https://github.com/sant1ago-da-hanoi))
