@@ -7,7 +7,7 @@ Bản dịch tiếng Việt cho **Oxygen Not Included** của Klei Entertainment
 ## Tiến độ
 
 ```
-████████████████████░░░░░░░░░░  14004 / 20322 chuỗi (68.9%)
+████████████████████░░░░░░░░░░  14125 / 20322 chuỗi (69.5%)
 ```
 
 ## Cài đặt
