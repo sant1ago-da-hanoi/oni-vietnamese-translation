@@ -9,7 +9,7 @@ Cập nhật: 2026-05-01
 | UI                        |       4393 |         1265 |    5658 |   77.6% |
 | BUILDINGS                 |       1909 |          899 |    2808 |   68.0% |
 | DUPLICANTS                |       2256 |          462 |    2718 |   83.0% |
-| CODEX                     |        995 |          639 |    1634 |   60.9% |
+| CODEX                     |        994 |          639 |    1633 |   60.9% |
 | CREATURES                 |        776 |          418 |    1194 |   65.0% |
 | BUILDING                  |        782 |           84 |     866 |   90.3% |
 | BLUEPRINTS                |          0 |          830 |     830 |    0.0% |
@@ -20,7 +20,7 @@ Cập nhật: 2026-05-01
 | ITEMS                     |        206 |          193 |     399 |   51.6% |
 | RESEARCH                  |        260 |           63 |     323 |   80.5% |
 | COLONY_ACHIEVEMENTS       |        194 |          101 |     295 |   65.8% |
-| ROOMS                     |        190 |           97 |     287 |   66.2% |
+| ROOMS                     |        287 |            0 |     287 |  100.0% |
 | INPUT_BINDINGS            |        180 |            8 |     188 |   95.7% |
 | WORLDS                    |        119 |           40 |     159 |   74.8% |
 | GAMEPLAY_EVENTS           |         89 |            4 |      93 |   95.7% |
@@ -28,17 +28,17 @@ Cập nhật: 2026-05-01
 | CLUSTER_NAMES             |         41 |           21 |      62 |   66.1% |
 | ROBOTS                    |         40 |           16 |      56 |   71.4% |
 | WORLD_TRAITS              |         50 |            0 |      50 |  100.0% |
-| SEARCH_TERMS              |          0 |           39 |      39 |    0.0% |
+| SEARCH_TERMS              |         39 |            0 |      39 |  100.0% |
 | INPUT                     |         18 |            3 |      21 |   85.7% |
 | STICKERNAMES              |          3 |           17 |      20 |   15.0% |
 | LORE                      |         10 |            4 |      14 |   71.4% |
 | VIDEOS                    |          7 |            0 |       7 |  100.0% |
 |---------------------------|------------|--------------|---------|----------|
-| **TOTAL**                 | **14125**  |     **6007** | **20132** | **70.1%** |
+| **TOTAL**                 | **14260**  |     **5871** | **20131** | **70.8%** |
 
-> Lưu ý: Tổng ở đây (20,132) khác với msgfmt stats (20,322) vì script chỉ đếm
-> entry có msgctxt bắt đầu bằng STRINGS. Một số entry có cấu trúc msgctxt khác
-> hoặc nằm ngoài namespace STRINGS.
+> Lưu ý: Bảng trên loại bỏ 616 obsolete entries (`#~`) và 191 entries có msgid
+> rỗng. msgfmt báo 14,261 translated / 6,061 untranslated (tổng 20,322) vì nó
+> đếm cả entries có msgid rỗng nhưng bỏ obsolete.
 
 ## Mô tả từng category
 
@@ -64,7 +64,7 @@ Cập nhật: 2026-05-01
 | GAMEPLAY_EVENTS     | Sự kiện gameplay: thiên tai, sự kiện ngẫu nhiên              |
 | CLUSTER_NAMES       | Tên cụm sao / cluster                                        |
 | ROBOTS              | Robot: Sweepbot, Scoutbot, v.v.                               |
-| SEARCH_TERMS        | Từ khóa tìm kiếm trong game (chưa dịch)                     |
+| SEARCH_TERMS        | Từ khóa tìm kiếm trong game (đã dịch xong)                  |
 | WORLD_TRAITS        | Đặc điểm thế giới: Frozen Core, Magma Channel, v.v.          |
 | SUBWORLDS           | Vùng con trong asteroid (đã dịch xong)                        |
 | INPUT               | Input bổ sung                                                 |
@@ -82,8 +82,10 @@ Cập nhật: 2026-05-01
 5. **CREATURES** (776 chuỗi) — sinh vật
 
 ### Đã dịch xong (100%)
-- **SUBWORLDS** (75 chuỗi) — PR #1
+- **ROOMS** (287 chuỗi)
+- **SUBWORLDS** (75 chuỗi)
 - **WORLD_TRAITS** (50 chuỗi)
+- **SEARCH_TERMS** (39 chuỗi)
 - **VIDEOS** (7 chuỗi)
 
 ### Chưa dịch — cần dịch mới
