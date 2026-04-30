@@ -7,7 +7,7 @@ Bản dịch tiếng Việt cho **Oxygen Not Included** của Klei Entertainment
 ## Tiến độ
 
 ```
-████████████████████░░░░░░░░░░  14,004 / 20,323 chuỗi (68.9%)
+████████████████████░░░░░░░░░░  14004 / 20322 chuỗi (68.9%)
 ```
 
 ## Cài đặt
@@ -36,12 +36,18 @@ Bản dịch tiếng Việt cho **Oxygen Not Included** của Klei Entertainment
 Yêu cầu: `gettext`
 
 ```bash
-make build    # Compile strings.po → strings.mo
-make check    # Kiểm tra lỗi + thống kê
-make stats    # Xem tiến độ dịch
-make merge    # Cập nhật strings.po từ template mới
-make clean    # Xóa file .mo
+make build      # Compile strings.po → strings.mo
+make check      # Kiểm tra lỗi + thống kê
+make stats      # Xem tiến độ dịch
+make merge      # Cập nhật strings.po từ template mới
+make progress   # Cập nhật progress bar trong README
+make clean      # Xóa file .mo
 ```
+
+## Tài liệu
+
+- [TRANSLATION_GUIDE.md](TRANSLATION_GUIDE.md) — Quy ước dịch, thuật ngữ, giọng văn
+- [TRANSLATION_STATUS.md](TRANSLATION_STATUS.md) — Tiến độ chi tiết theo từng category
 
 ## Đóng góp
 
@@ -50,6 +56,8 @@ Mọi đóng góp đều được hoan nghênh! Bạn có thể:
 - **Dịch trực tiếp**: Fork repo → sửa `strings.po` → tạo Pull Request
 - **Báo lỗi dịch**: Mở [Issue](https://github.com/sant1ago-da-hanoi/oni-vietnamese-translation/issues) mô tả lỗi
 - **Dùng Poedit**: Mở `strings.po` bằng [Poedit](https://poedit.net/) để dịch với giao diện trực quan
+
+Trước khi dịch, hãy đọc [TRANSLATION_GUIDE.md](TRANSLATION_GUIDE.md) để nắm quy ước thuật ngữ.
 
 ## Giấy phép
 
