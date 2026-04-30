@@ -7,7 +7,7 @@ Bản dịch tiếng Việt cho **Oxygen Not Included** của Klei Entertainment
 ## Tiến độ
 
 ```
-████████████████████░░░░░░░░░░  14125 / 20322 chuỗi (69.5%)
+█████████████████████░░░░░░░░░  14261 / 20322 chuỗi (70.1%)
 ```
 
 ## Cài đặt
@@ -18,18 +18,26 @@ Bản dịch tiếng Việt cho **Oxygen Not Included** của Klei Entertainment
 2. Bật mod trong game, khởi động lại
 3. Vào **Settings → Language** chọn **Tiếng Việt**
 
-### Cài thủ công
+### Cài thủ công (local mod)
 
-1. Tải `strings.po` và `strings.mo` từ repo này
-2. Copy vào thư mục mod của game:
+1. Tải `strings.po`, `strings.mo` và `mod_info.yaml` từ repo này
+2. Tạo thư mục local mod và copy files vào:
    ```
    # macOS
-   ~/Library/Application Support/Steam/steamapps/common/OxygenNotIncluded/OxygenNotIncluded.app/Contents/Resources/Data/StreamingAssets/strings/
+   ~/Library/Application Support/unity.Klei.Oxygen Not Included/mods/Local/VietnameseTranslation/
 
    # Windows
-   C:\Program Files (x86)\Steam\steamapps\common\OxygenNotIncluded\OxygenNotIncluded_Data\StreamingAssets\strings\
+   %USERPROFILE%\Documents\Klei\OxygenNotIncluded\mods\Local\VietnameseTranslation\
    ```
-3. Khởi động lại game
+   Cấu trúc thư mục:
+   ```
+   VietnameseTranslation/
+   ├── mod_info.yaml
+   ├── strings.mo
+   └── strings.po
+   ```
+3. Mở game → **Mods** → bật **VietnameseTranslation** → khởi động lại
+4. Vào **Settings → Language** chọn **Tiếng Việt**
 
 ## Build
 
