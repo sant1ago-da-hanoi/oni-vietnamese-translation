@@ -6,9 +6,7 @@ Bản dịch tiếng Việt cho **Oxygen Not Included** của Klei Entertainment
 
 ## Tiến độ
 
-```
-██████████████████████████░░░░  17727 / 20322 chuỗi (87.2%)
-```
+![Translation Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsant1ago-da-hanoi%2Foni-vietnamese-translation%2Fmaster%2Ftranslation-status.json&cacheSeconds=0)
 
 ## Cài đặt
 
@@ -48,7 +46,7 @@ make build      # Compile strings.po → strings.mo
 make check      # Kiểm tra lỗi + thống kê
 make stats      # Xem tiến độ dịch
 make merge      # Cập nhật strings.po từ template mới
-make progress   # Cập nhật progress bar trong README
+make progress   # Cập nhật translation-status.json
 make clean      # Xóa file .mo
 ```
 

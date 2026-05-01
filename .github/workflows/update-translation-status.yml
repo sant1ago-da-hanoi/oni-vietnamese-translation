@@ -1,0 +1,54 @@
+name: Update translation status
+
+on:
+  push:
+    branches: [master]
+    paths: [strings.po]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-status:
+    if: github.repository_owner == 'sant1ago-da-hanoi'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6.0.2
+
+      - name: Install gettext
+        run: sudo apt-get update && sudo apt-get install -y gettext
+
+      - name: Calculate stats and update JSON
+        run: |
+          stats=$(msgfmt --statistics strings.po 2>&1)
+          translated=$(echo "$stats" | grep -oE '[0-9]+ translated' | grep -oE '[0-9]+')
+          untranslated=$(echo "$stats" | grep -oE '[0-9]+ untranslated' | grep -oE '[0-9]+')
+          translated=${translated:-0}
+          untranslated=${untranslated:-0}
+          total=$((translated + untranslated))
+          pct=$(awk "BEGIN {printf \"%.1f\", $translated / $total * 100}")
+
+          if   [ "$(echo "$pct >= 95" | bc)" -eq 1 ]; then color="brightgreen"
+          elif [ "$(echo "$pct >= 75" | bc)" -eq 1 ]; then color="yellow"
+          elif [ "$(echo "$pct >= 50" | bc)" -eq 1 ]; then color="orange"
+          else color="red"
+          fi
+
+          cat > translation-status.json <<EOF
+          {
+            "schemaVersion": 1,
+            "label": "dịch",
+            "message": "${pct}% (${translated} / ${total})",
+            "color": "${color}",
+            "namedLogo": "googletranslate"
+          }
+          EOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add translation-status.json
+          git diff --cached --quiet || git commit -m "chore: update translation status"
+          git push
