@@ -42,7 +42,7 @@ Cập nhật: 2026-04-30
 | Rhex             | Tấn Mãnh Long       | 迅猛龙         | Tấn Mãnh Long          | Velociraptor, hunts other critters          | Ăn thịt sinh vật khác                      |
 | Dartle           | Dật Tích            | 逸蜥           | Dật Tích               | Escaping lizard, eats dewdrips              | Ăn Dewdrip thải Bleach Stone/Chlorine       |
 | Jawbo            | Cá hàm sắt         | 铁颚鱼         | Thiết Ngạc Ngư         | Iron-jaw fish, eats Pacu, excretes rust     | Ăn Pacu, thải Rust                          |
-| Gnit             | Mòng đốt           | 蚋             | Nhuế                   | Gnat, flying insect, stings dupes/critters  | Côn trùng bay, đốt đệ và sinh vật          |
+| Gnit             | Muỗi vằn           | 蚋             | Nhuế                   | Gnat, flying insect, stings dupes/critters  | Côn trùng bay, đốt đệ và sinh vật          |
 
 ### Thực vật
 
