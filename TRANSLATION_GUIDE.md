@@ -49,6 +49,7 @@ Cập nhật: 2026-04-30
 | Oil Spout        | Mạch dầu          | Feature tự nhiên                             |
 | Generator        | Máy phát điện     |                                             |
 | Battery          | Pin               | Battery = Pin tiểu, Jumbo Battery = Pin     |
+| Data Bank        | Đĩa dữ liệu      | Research/Orbital Data Bank                   |
 | Oxygen           | Oxy               |                                             |
 | Food             | Thực phẩm / Thức ăn | "Thực phẩm" cho UI, "Thức ăn" cho mô tả  |
 | Ore              | Quặng             |                                             |
