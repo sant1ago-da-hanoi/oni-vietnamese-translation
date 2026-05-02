@@ -43,7 +43,10 @@ Cập nhật: 2026-04-30
 | Building         | Công trình         |                                             |
 | Tile             | Gạch              |                                             |
 | Pipe             | Ống / Ống dẫn     |                                             |
-| Vent             | Lỗ thông khí      | Gas Vent; "Lỗ thoát" cho Liquid Vent        |
+| Vent (building)  | Van khí / Van chất lỏng | Gas Vent = van khí, Liquid Vent = van chất lỏng |
+| Vent/Geyser (natural) | Mạch + chất  | Mạch tự nhiên trên map: mạch khí Hydro, mạch hơi nước, mạch nước muối... |
+| Geo Vent         | Mạch địa nhiệt    | Feature tự nhiên, KHÔNG phải building       |
+| Oil Spout        | Mạch dầu          | Feature tự nhiên                             |
 | Generator        | Máy phát điện     |                                             |
 | Battery          | Pin               | Battery = Pin tiểu, Jumbo Battery = Pin     |
 | Oxygen           | Oxy               |                                             |
