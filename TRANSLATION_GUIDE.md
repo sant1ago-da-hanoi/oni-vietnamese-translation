@@ -152,6 +152,16 @@ Cập nhật: 2026-04-30
 - Số nhiều: "các đệ", "mấy đứa đệ"
 - Sở hữu: "của đệ", "cho đệ"
 
+#### Bionic Duplicant = đệ máy
+- Viết thường: **đệ máy** (chỉ viết hoa ở đầu câu hoặc khi dùng làm tên riêng: "Đệ Máy")
+- Các thuật ngữ liên quan:
+  - Power Bank → pin năng lượng
+  - Gear Oil → dầu bôi trơn
+  - Gunk → cặn
+  - Booster → chip (đã có trong guide)
+  - Remote Worker → robot điều khiển từ xa
+  - Remote Controller → bộ điều khiển từ xa
+
 ### 2. Giữ nguyên tiếng Anh khi
 - Tên riêng sinh vật: Hatch, Morb, Puft, Drecko, Pip, Shove Vole...
 - Tên nguyên tố hóa học đặc thù game: Abyssalite, Isoresin, Fullerene...
