@@ -19,7 +19,7 @@ Cập nhật: 2026-04-30
 | Dupe             | đệ                 |                |                         |                                             | Viết tắt của Duplicant                      |
 | Colony           | Thuộc địa          |                |                         |                                             |                                             |
 | Critter          | Sinh vật           |                |                         |                                             | Hoặc "Động vật" tùy ngữ cảnh               |
-| Hatch            | Cáp Kỳ             | 哈奇           | Cáp Kỳ                 | Reptilian, eats minerals/rocks              | Ăn đá/quặng, nhai mọi thứ                  |
+| Hatch            | Dế than             | 哈奇           | —                       | Chitinous, nocturnal, eats minerals/rocks   | Vỏ kitin, đào hang, ăn đá/quặng, bài tiết than. Biến thể: Dế cẩm thạch (Stone), Dế giả kim (Smooth), Dế thần rừng (Sage) |
 | Morb             | Bọ thối rữa        | 疫病章鱼       | Dịch Bệnh Chương Ngư   | Plague octopus, spawns from outhouses       | Sinh từ nhà xí, tạo khí thối               |
 | Shine Bug        | Đom đóm            | 发光虫         | Phát Quang Trùng       | Glowing flying bug                          | Bay, phát sáng                              |
 | Pip              | Pip                | 树鼠           | Thụ Thử                | Tree mouse, plants seeds in soil            | Trồng hạt vào đất                          |
@@ -163,7 +163,7 @@ Cập nhật: 2026-04-30
   - Remote Controller → bộ điều khiển từ xa
 
 ### 2. Giữ nguyên tiếng Anh khi
-- Tên riêng sinh vật: Hatch, Morb, Puft, Drecko, Pip, Shove Vole...
+- Tên riêng sinh vật: Morb, Puft, Drecko, Pip, Shove Vole...
 - Tên nguyên tố hóa học đặc thù game: Abyssalite, Isoresin, Fullerene...
 - Thuật ngữ kỹ thuật quen thuộc: Stress, DNA, pH...
 - Tên DLC: Spaced Out!, The Frosty Planet Pack
