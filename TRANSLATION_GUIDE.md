@@ -85,11 +85,11 @@ Cập nhật: 2026-04-30
 | Oxyfern              | Dương xỉ             | 氧齿蕨           | Dưỡng Xỉ Quyết       | Absorbs CO2, releases O2                      | Hút CO2, thải O2                           |
 | Wheezewort           | Cây hàn tức          | 冰息萝卜         | Băng Tức La Bặc       | Cooling plant                                 | Cây làm lạnh                               |
 | Balm Lily            | Hoa loa kèn          | 芳香百合         | Phương Hương Bách Hợp | Produces Balm Lily Flower                     | Hoa thơm                                   |
-| Alveo Vera           | Khí Nang Lô Hội      | 气囊芦荟         | Khí Nang Lô Hội       | Produces Oxylite from CO2 + Ice               |                                            |
+| Alveo Vera           | Tuyết Tức Hoa         | 气囊芦荟         | Khí Nang Lô Hội       | Produces Oxylite from CO2 + Ice               | Hoa hơi thở tuyết                          |
 | Bonbon Tree          | Cây Kẹo Mật          | 糖心树           | Đường Tâm Thụ         | Cold tree, produces Nectar + Wood             |                                            |
 | Lura Plant           | Lộ Nhĩ Hoa           | 露饵花           | Lộ Nhĩ Hoa            | Carnivorous, traps flying critters            |                                            |
 | Seakomb              | Rong Lược Biển       | 海梳蕨           | Hải Sơ Quyết          | Aquatic plant, produces Seakomb Leaf          |                                            |
-| Dew Dripper          | Tử Vũ Lộ Hoa         | 露珠藤           | Lộ Châu Đằng          | Produces Dewdrips → Brackene                  | Hoa tím lông vũ nhỏ sương                 |
+| Dew Dripper          | Hoa Sương Tím         | 露珠藤           | Lộ Châu Đằng          | Produces Dewdrips → Brackene                  | Hoa tím nhỏ sương                          |
 | Buried Muckroot      | Củ Bùn Chôn          | 掩埋的淤泥根     | Yên Mai Ứ Nê Căn     | Starter forage, edible tuber                  | Đào từ đất, ăn được                        |
 | Hydrocactus          | Tiên Thủy Chưởng     | 仙水掌           | Tiên Thủy Chưởng     | Water-filtering cactus                        | Xương rồng lọc nước                        |
 | Avari Vine           | Tham Đằng             | —                | Tham Đằng             | Fast-growing subterranean vine                | Dây leo mọc nhanh dưới đất                 |
