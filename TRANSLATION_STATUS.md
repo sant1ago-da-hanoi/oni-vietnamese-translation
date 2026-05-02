@@ -6,26 +6,26 @@ Cập nhật: 2026-05-02
 
 | Category                  | Translated | Untranslated |   Total | Progress |
 |---------------------------|------------|--------------|---------|----------|
-| UI                        |       4810 |           20 |    4830 |   99.6% |
-| DUPLICANTS                |       2217 |          437 |    2654 |   83.5% |
-| BUILDINGS                 |       2538 |            0 |    2538 |  100.0% |
-| CODEX                     |        917 |          576 |    1493 |   61.4% |
-| CREATURES                 |        886 |          292 |    1178 |   75.2% |
-| BLUEPRINTS                |        736 |           84 |     820 |   89.8% |
-| BUILDING                  |        778 |           34 |     812 |   95.8% |
-| MISC                      |        482 |          101 |     583 |   82.7% |
-| NAMEGEN                   |        531 |           19 |     550 |   96.5% |
-| ELEMENTS                  |        268 |          163 |     431 |   62.2% |
-| EQUIPMENT                 |        392 |            0 |     392 |  100.0% |
-| ITEMS                     |        220 |          169 |     389 |   56.6% |
-| RESEARCH                  |        263 |           56 |     319 |   82.4% |
-| ROOMS                     |        286 |            0 |     286 |  100.0% |
+| UI                        |       5634 |           24 |    5658 |   99.6% |
+| BUILDINGS                 |       2808 |            0 |    2808 |  100.0% |
+| DUPLICANTS                |       2256 |          462 |    2718 |   83.0% |
+| CODEX                     |        995 |          639 |    1634 |   60.9% |
+| CREATURES                 |        888 |          306 |    1194 |   74.4% |
+| BUILDING                  |        828 |           38 |     866 |   95.6% |
+| BLUEPRINTS                |        736 |           94 |     830 |   88.7% |
+| EQUIPMENT                 |        754 |            0 |     754 |  100.0% |
+| MISC                      |        482 |          110 |     592 |   81.4% |
+| NAMEGEN                   |        536 |           19 |     555 |   96.6% |
+| ELEMENTS                  |        435 |            0 |     435 |  100.0% |
+| ITEMS                     |        227 |          172 |     399 |   56.9% |
+| RESEARCH                  |        263 |           60 |     323 |   81.4% |
+| COLONY_ACHIEVEMENTS       |        211 |           84 |     295 |   71.5% |
+| ROOMS                     |        287 |            0 |     287 |  100.0% |
 | INPUT_BINDINGS            |        188 |            0 |     188 |  100.0% |
 | WORLDS                    |        159 |            0 |     159 |  100.0% |
-| COLONY_ACHIEVEMENTS       |        131 |            3 |     134 |   97.8% |
-| GAMEPLAY_EVENTS           |         91 |            0 |      91 |  100.0% |
+| GAMEPLAY_EVENTS           |         93 |            0 |      93 |  100.0% |
 | SUBWORLDS                 |         75 |            0 |      75 |  100.0% |
-| CLUSTER_NAMES             |         59 |            2 |      61 |   96.7% |
+| CLUSTER_NAMES             |         60 |            2 |      62 |   96.8% |
 | ROBOTS                    |         44 |           12 |      56 |   78.6% |
 | WORLD_TRAITS              |         50 |            0 |      50 |  100.0% |
 | SEARCH_TERMS              |         39 |            0 |      39 |  100.0% |
@@ -34,11 +34,14 @@ Cập nhật: 2026-05-02
 | LORE                      |         12 |            2 |      14 |   85.7% |
 | VIDEOS                    |          7 |            0 |       7 |  100.0% |
 |---------------------------|------------|--------------|---------|----------|
-| **TOTAL**                 | **16220**  |     **1970** | **18190** | **89.2%** |
+| **TOTAL**                 | **18108**  |     **2024** | **20132** | **89.9%** |
 
 > Lưu ý: Bảng trên loại bỏ obsolete entries (`#~`) và entries có msgid rỗng.
-> msgfmt báo 17,945 translated / 2,377 untranslated (tổng 20,322) vì nó đếm
+> msgfmt báo 18,108 translated / 2,214 untranslated (tổng 20,322) vì nó đếm
 > cả entries có msgid rỗng nhưng bỏ obsolete.
+>
+> Từ bản cập nhật này, dùng `polib` thay vì regex để đếm — chính xác hơn.
+> Bản trước (regex) đếm thiếu ~1,942 entries do parse sai multi-line entries.
 
 ## Mô tả từng category
 
@@ -74,23 +77,24 @@ Cập nhật: 2026-05-02
 
 ## Ưu tiên dịch mới
 
-1. **CODEX** (576 chuỗi chưa dịch) — bách khoa toàn thư
-2. **DUPLICANTS** (437 chuỗi chưa dịch) — tên, kỹ năng, đặc điểm
-3. **CREATURES** (292 chuỗi chưa dịch) — sinh vật
-4. **ITEMS** (169 chuỗi chưa dịch) — vật phẩm
-5. **ELEMENTS** (163 chuỗi chưa dịch) — nguyên tố
-6. **MISC** (101 chuỗi chưa dịch) — thông báo chung
-7. **BLUEPRINTS** (84 chuỗi chưa dịch)
-8. **RESEARCH** (56 chuỗi chưa dịch)
+1. **CODEX** (639 chuỗi chưa dịch) — bách khoa toàn thư
+2. **DUPLICANTS** (462 chuỗi chưa dịch) — tên, kỹ năng, đặc điểm
+3. **CREATURES** (306 chuỗi chưa dịch) — sinh vật
+4. **ITEMS** (172 chuỗi chưa dịch) — vật phẩm
+5. **MISC** (110 chuỗi chưa dịch) — thông báo chung
+6. **BLUEPRINTS** (94 chuỗi chưa dịch)
+7. **COLONY_ACHIEVEMENTS** (84 chuỗi chưa dịch)
+8. **RESEARCH** (60 chuỗi chưa dịch)
 
 ## Đã dịch xong (100%)
 
-- **BUILDINGS** (2,538 chuỗi)
-- **EQUIPMENT** (392 chuỗi)
-- **ROOMS** (286 chuỗi)
+- **BUILDINGS** (2,808 chuỗi)
+- **EQUIPMENT** (754 chuỗi)
+- **ELEMENTS** (435 chuỗi)
+- **ROOMS** (287 chuỗi)
 - **INPUT_BINDINGS** (188 chuỗi)
 - **WORLDS** (159 chuỗi)
-- **GAMEPLAY_EVENTS** (91 chuỗi)
+- **GAMEPLAY_EVENTS** (93 chuỗi)
 - **SUBWORLDS** (75 chuỗi)
 - **WORLD_TRAITS** (50 chuỗi)
 - **SEARCH_TERMS** (39 chuỗi)
