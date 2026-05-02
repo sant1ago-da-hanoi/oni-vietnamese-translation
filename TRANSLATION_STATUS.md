@@ -18,7 +18,7 @@ Cập nhật: 2026-05-02
 | NAMEGEN                   |        536 |           19 |     555 |   96.6% |
 | ELEMENTS                  |        435 |            0 |     435 |  100.0% |
 | ITEMS                     |        227 |          172 |     399 |   56.9% |
-| RESEARCH                  |        263 |           60 |     323 |   81.4% |
+| RESEARCH                  |        323 |            0 |     323 |  100.0% |
 | COLONY_ACHIEVEMENTS       |        211 |           84 |     295 |   71.5% |
 | ROOMS                     |        287 |            0 |     287 |  100.0% |
 | INPUT_BINDINGS            |        188 |            0 |     188 |  100.0% |
@@ -34,7 +34,7 @@ Cập nhật: 2026-05-02
 | LORE                      |         12 |            2 |      14 |   85.7% |
 | VIDEOS                    |          7 |            0 |       7 |  100.0% |
 |---------------------------|------------|--------------|---------|----------|
-| **TOTAL**                 | **18108**  |     **2024** | **20132** | **89.9%** |
+| **TOTAL**                 | **18168**  |     **1964** | **20132** | **90.2%** |
 
 > Lưu ý: Bảng trên loại bỏ obsolete entries (`#~`) và entries có msgid rỗng.
 > msgfmt báo 18,108 translated / 2,214 untranslated (tổng 20,322) vì nó đếm
@@ -84,10 +84,11 @@ Cập nhật: 2026-05-02
 5. **MISC** (110 chuỗi chưa dịch) — thông báo chung
 6. **BLUEPRINTS** (94 chuỗi chưa dịch)
 7. **COLONY_ACHIEVEMENTS** (84 chuỗi chưa dịch)
-8. **RESEARCH** (60 chuỗi chưa dịch)
+
 
 ## Đã dịch xong (100%)
 
+- **RESEARCH** (323 chuỗi)
 - **BUILDINGS** (2,808 chuỗi)
 - **EQUIPMENT** (754 chuỗi)
 - **ELEMENTS** (435 chuỗi)
