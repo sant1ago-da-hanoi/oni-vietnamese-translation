@@ -29,7 +29,7 @@ Cập nhật: 2026-04-30
 | Pacu             | Pacu               | 帕库鱼         | Phách Khố Ngư          | Phonetic + fish                             | Giữ nguyên (tên cá thật)                    |
 | Slickster        | Sứa cạn            | 油滑虫         | Du Hoạt Trùng          | Oily slick bug, eats CO2 excretes oil       | Bay sát đất, ăn CO2 thải dầu               |
 | Shove Vole       | Chuột máy khoan    | 锹环田鼠       | Tiêu Hoàn Điền Thử    | Shovel ring field mouse, digs regolith      | Đào regolith                                |
-| Gassy Moo        | Bò xì hơi          | 释气海牛       | Thích Khí Hải Ngưu     | Gas-releasing sea cow                       | Xì Natural Gas                              |
+| Gassy Moo        | Bò bay              | 释气海牛       | Thích Khí Hải Ngưu     | Gas-releasing sea cow                       | Xì Natural Gas                              |
 | Plug Slug        | Sên điện           | 电弧蛞蝓       | Điện Hồ Hoạt Dụ       | Electric arc slug, clings to ceiling        | Treo trần, cấp điện                         |
 | Sweetle          | Điềm Trùng         | 甜虫           | Điềm Trùng             | Sweet bug, eats/excretes sucrose            | Ăn/thải đường                               |
 | Grubgrub         | Sâu mật            | 虫果果虫       | Trùng Quả Quả Trùng   | Bug-fruit-fruit-bug, rubs plants            | Chà vào cây tăng trưởng                    |
