@@ -32,7 +32,7 @@ Cập nhật: 2026-04-30
 | Gassy Moo        | Bò bay              | 释气海牛       | Thích Khí Hải Ngưu     | Gas-releasing sea cow                       | Xì Natural Gas                              |
 | Plug Slug        | Sên điện           | 电弧蛞蝓       | Điện Hồ Hoạt Dụ       | Electric arc slug, clings to ceiling        | Treo trần, cấp điện                         |
 | Sweetle          | Điềm Trùng         | 甜虫           | Điềm Trùng             | Sweet bug, eats/excretes sucrose            | Ăn/thải đường                               |
-| Grubgrub         | Sâu mật            | 虫果果虫       | Trùng Quả Quả Trùng   | Bug-fruit-fruit-bug, rubs plants            | Chà vào cây tăng trưởng                    |
+| Grubgrub         | Long Trùng            | 虫果果虫       | Trùng Quả Quả Trùng   | Bug-fruit-fruit-bug, rubs plants            | Chà vào cây tăng trưởng                    |
 | Beeta            | Ong cánh cứng      | 辐射蜂         | Phức Xạ Phong          | Radiation bee, hostile, collects uranium     | Hostile, thu uranium                         |
 | Bammoth          | Nhung Mã Thố       | 绒犸兔         | Nhung Mã Thố           | Woolly mammoth rabbit, shearable fiber      | Cắt lông lấy sợi                           |
 | Flox             | Hồ Lộc             | 狐鹿           | Hồ Lộc                 | Fox-deer, shearable antlers for wood/glass  | Cắt sừng lấy gỗ/thủy tinh                  |
