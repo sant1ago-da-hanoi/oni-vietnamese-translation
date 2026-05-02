@@ -13,14 +13,36 @@ Cập nhật: 2026-04-30
 
 ### Nhân vật & Sinh vật
 
-| English          | Tiếng Việt       | Ghi chú                                    |
-|------------------|------------------|---------------------------------------------|
-| Duplicant        | đệ / thằng đệ   | Không viết hoa, trừ đầu câu                |
-| Dupe             | đệ               | Viết tắt của Duplicant                      |
-| Colony           | Thuộc địa         |                                             |
-| Critter          | Sinh vật          | Hoặc "Động vật" tùy ngữ cảnh               |
-| Morb             | Morb              | Giữ nguyên tên sinh vật                     |
-| Hatch            | Hatch             | Giữ nguyên tên sinh vật                     |
+| English          | Tiếng Việt         | 中文           | Hán Việt                | EN Description                              | Ghi chú                                    |
+|------------------|--------------------|----------------|-------------------------|---------------------------------------------|--------------------------------------------|
+| Duplicant        | đệ / thằng đệ     |                |                         |                                             | Không viết hoa, trừ đầu câu                |
+| Dupe             | đệ                 |                |                         |                                             | Viết tắt của Duplicant                      |
+| Colony           | Thuộc địa          |                |                         |                                             |                                             |
+| Critter          | Sinh vật           |                |                         |                                             | Hoặc "Động vật" tùy ngữ cảnh               |
+| Hatch            | Cáp Kỳ             | 哈奇           | Cáp Kỳ                 | Reptilian, eats minerals/rocks              | Ăn đá/quặng, nhai mọi thứ                  |
+| Morb             | Bọ thối rữa        | 疫病章鱼       | Dịch Bệnh Chương Ngư   | Plague octopus, spawns from outhouses       | Sinh từ nhà xí, tạo khí thối               |
+| Shine Bug        | Đom đóm            | 发光虫         | Phát Quang Trùng       | Glowing flying bug                          | Bay, phát sáng                              |
+| Pip              | Pip                | 树鼠           | Thụ Thử                | Tree mouse, plants seeds in soil            | Trồng hạt vào đất                          |
+| Drecko           | Tắc kè lông xù    | 毛鳞壁虎       | Mao Lân Bích Hổ        | Furry-scaled wall gecko, reptilian          | Bò tường, có vảy/lông                       |
+| Pokeshell        | Cua vôi            | 抛壳蟹         | Phao Xác Giải          | Shell-throwing crab, eats polluted dirt     | Ăn rác, lột vỏ lấy vôi                     |
+| Puft             | Puft               | 喷浮飞鱼       | Phún Phù Phi Ngư       | Spray-float flying fish, inhales gases      | Bay, hút khí thải slime                     |
+| Pacu             | Pacu               | 帕库鱼         | Phách Khố Ngư          | Phonetic + fish                             | Giữ nguyên (tên cá thật)                    |
+| Slickster        | Sứa cạn            | 油滑虫         | Du Hoạt Trùng          | Oily slick bug, eats CO2 excretes oil       | Bay sát đất, ăn CO2 thải dầu               |
+| Shove Vole       | Chuột máy khoan    | 锹环田鼠       | Tiêu Hoàn Điền Thử    | Shovel ring field mouse, digs regolith      | Đào regolith                                |
+| Gassy Moo        | Bò xì hơi          | 释气海牛       | Thích Khí Hải Ngưu     | Gas-releasing sea cow                       | Xì Natural Gas                              |
+| Plug Slug        | Sên điện           | 电弧蛞蝓       | Điện Hồ Hoạt Dụ       | Electric arc slug, clings to ceiling        | Treo trần, cấp điện                         |
+| Sweetle          | Điềm Trùng         | 甜虫           | Điềm Trùng             | Sweet bug, eats/excretes sucrose            | Ăn/thải đường                               |
+| Grubgrub         | Sâu mật            | 虫果果虫       | Trùng Quả Quả Trùng   | Bug-fruit-fruit-bug, rubs plants            | Chà vào cây tăng trưởng                    |
+| Beeta            | Ong cánh cứng      | 辐射蜂         | Phức Xạ Phong          | Radiation bee, hostile, collects uranium     | Hostile, thu uranium                         |
+| Bammoth          | Nhung Mã Thố       | 绒犸兔         | Nhung Mã Thố           | Woolly mammoth rabbit, shearable fiber      | Cắt lông lấy sợi                           |
+| Flox             | Hồ Lộc             | 狐鹿           | Hồ Lộc                 | Fox-deer, shearable antlers for wood/glass  | Cắt sừng lấy gỗ/thủy tinh                  |
+| Spigot Seal      | Hải cẩu nấu rượu   | 栓角海豹       | Suyên Giác Hải Báo     | Spigot-horn seal, eats sugar makes ethanol  | Ăn đường tạo ethanol                        |
+| Lumb             | Đạp Túc Long        | 踏足龙         | Đạp Túc Long           | Stomping dragon, stomps to shake fruit      | Dậm chân rụng trái                         |
+| Mimika           | Mimika             | 拟蛾           | Nghĩ Nga               | Mimic moth, pollinates plants, dries to seed| Bay, thụ phấn, khô thành hạt               |
+| Rhex             | Tấn Mãnh Long       | 迅猛龙         | Tấn Mãnh Long          | Velociraptor, hunts other critters          | Ăn thịt sinh vật khác                      |
+| Dartle           | Dật Tích            | 逸蜥           | Dật Tích               | Escaping lizard, eats dewdrips              | Ăn Dewdrip thải Bleach Stone/Chlorine       |
+| Jawbo            | Cá hàm sắt         | 铁颚鱼         | Thiết Ngạc Ngư         | Iron-jaw fish, eats Pacu, excretes rust     | Ăn Pacu, thải Rust                          |
+| Gnit             | Mòng đốt           | 蚋             | Nhuế                   | Gnat, flying insect, stings dupes/critters  | Côn trùng bay, đốt đệ và sinh vật          |
 
 ### Chỉ số & Trạng thái
 
