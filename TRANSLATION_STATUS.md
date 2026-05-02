@@ -1,44 +1,44 @@
 # Phân loại chuỗi dịch — Oxygen Not Included Tiếng Việt
 
-Cập nhật: 2026-05-01
+Cập nhật: 2026-05-02
 
 ## Tổng quan
 
 | Category                  | Translated | Untranslated |   Total | Progress |
 |---------------------------|------------|--------------|---------|----------|
-| UI                        |       4393 |         1265 |    5658 |   77.6% |
-| BUILDINGS                 |       1909 |          899 |    2808 |   68.0% |
-| DUPLICANTS                |       2256 |          462 |    2718 |   83.0% |
-| CODEX                     |        994 |          639 |    1633 |   60.9% |
-| CREATURES                 |        776 |          418 |    1194 |   65.0% |
-| BUILDING                  |        782 |           84 |     866 |   90.3% |
-| BLUEPRINTS                |          0 |          830 |     830 |    0.0% |
-| EQUIPMENT                 |        335 |          419 |     754 |   44.4% |
-| MISC                      |        420 |          172 |     592 |   70.9% |
-| NAMEGEN                   |        506 |           49 |     555 |   91.2% |
-| ELEMENTS                  |        271 |          164 |     435 |   62.3% |
-| ITEMS                     |        206 |          193 |     399 |   51.6% |
-| RESEARCH                  |        260 |           63 |     323 |   80.5% |
-| COLONY_ACHIEVEMENTS       |        194 |          101 |     295 |   65.8% |
-| ROOMS                     |        287 |            0 |     287 |  100.0% |
-| INPUT_BINDINGS            |        180 |            8 |     188 |   95.7% |
-| WORLDS                    |        119 |           40 |     159 |   74.8% |
-| GAMEPLAY_EVENTS           |         89 |            4 |      93 |   95.7% |
+| UI                        |       4810 |           20 |    4830 |   99.6% |
+| DUPLICANTS                |       2217 |          437 |    2654 |   83.5% |
+| BUILDINGS                 |       2538 |            0 |    2538 |  100.0% |
+| CODEX                     |        917 |          576 |    1493 |   61.4% |
+| CREATURES                 |        886 |          292 |    1178 |   75.2% |
+| BLUEPRINTS                |        736 |           84 |     820 |   89.8% |
+| BUILDING                  |        778 |           34 |     812 |   95.8% |
+| MISC                      |        482 |          101 |     583 |   82.7% |
+| NAMEGEN                   |        531 |           19 |     550 |   96.5% |
+| ELEMENTS                  |        268 |          163 |     431 |   62.2% |
+| EQUIPMENT                 |        392 |            0 |     392 |  100.0% |
+| ITEMS                     |        220 |          169 |     389 |   56.6% |
+| RESEARCH                  |        263 |           56 |     319 |   82.4% |
+| ROOMS                     |        286 |            0 |     286 |  100.0% |
+| INPUT_BINDINGS            |        188 |            0 |     188 |  100.0% |
+| WORLDS                    |        159 |            0 |     159 |  100.0% |
+| COLONY_ACHIEVEMENTS       |        131 |            3 |     134 |   97.8% |
+| GAMEPLAY_EVENTS           |         91 |            0 |      91 |  100.0% |
 | SUBWORLDS                 |         75 |            0 |      75 |  100.0% |
-| CLUSTER_NAMES             |         41 |           21 |      62 |   66.1% |
-| ROBOTS                    |         40 |           16 |      56 |   71.4% |
+| CLUSTER_NAMES             |         59 |            2 |      61 |   96.7% |
+| ROBOTS                    |         44 |           12 |      56 |   78.6% |
 | WORLD_TRAITS              |         50 |            0 |      50 |  100.0% |
 | SEARCH_TERMS              |         39 |            0 |      39 |  100.0% |
-| INPUT                     |         18 |            3 |      21 |   85.7% |
-| STICKERNAMES              |          3 |           17 |      20 |   15.0% |
-| LORE                      |         10 |            4 |      14 |   71.4% |
+| INPUT                     |         21 |            0 |      21 |  100.0% |
+| STICKERNAMES              |         20 |            0 |      20 |  100.0% |
+| LORE                      |         12 |            2 |      14 |   85.7% |
 | VIDEOS                    |          7 |            0 |       7 |  100.0% |
 |---------------------------|------------|--------------|---------|----------|
-| **TOTAL**                 | **14260**  |     **5871** | **20131** | **70.8%** |
+| **TOTAL**                 | **16220**  |     **1970** | **18190** | **89.2%** |
 
-> Lưu ý: Bảng trên loại bỏ 616 obsolete entries (`#~`) và 191 entries có msgid
-> rỗng. msgfmt báo 14,261 translated / 6,061 untranslated (tổng 20,322) vì nó
-> đếm cả entries có msgid rỗng nhưng bỏ obsolete.
+> Lưu ý: Bảng trên loại bỏ obsolete entries (`#~`) và entries có msgid rỗng.
+> msgfmt báo 17,945 translated / 2,377 untranslated (tổng 20,322) vì nó đếm
+> cả entries có msgid rỗng nhưng bỏ obsolete.
 
 ## Mô tả từng category
 
@@ -50,7 +50,7 @@ Cập nhật: 2026-05-01
 | BUILDING            | Công trình: logic, trạng thái (namespace BUILDING)            |
 | CODEX               | Bách khoa toàn thư trong game (Database)                      |
 | CREATURES           | Sinh vật: tên, mô tả, hành vi, giống loài                    |
-| BLUEPRINTS          | Bản thiết kế (chưa dịch)                                     |
+| BLUEPRINTS          | Bản thiết kế                                                  |
 | EQUIPMENT           | Trang bị: bộ đồ, công cụ, vật phẩm mang theo                |
 | NAMEGEN             | Bộ sinh tên ngẫu nhiên cho đệ                                |
 | MISC                | Chuỗi linh tinh: loading screen, tips, thông báo chung       |
@@ -64,34 +64,36 @@ Cập nhật: 2026-05-01
 | GAMEPLAY_EVENTS     | Sự kiện gameplay: thiên tai, sự kiện ngẫu nhiên              |
 | CLUSTER_NAMES       | Tên cụm sao / cluster                                        |
 | ROBOTS              | Robot: Sweepbot, Scoutbot, v.v.                               |
-| SEARCH_TERMS        | Từ khóa tìm kiếm trong game (đã dịch xong)                  |
+| SEARCH_TERMS        | Từ khóa tìm kiếm trong game                                  |
 | WORLD_TRAITS        | Đặc điểm thế giới: Frozen Core, Magma Channel, v.v.          |
-| SUBWORLDS           | Vùng con trong asteroid (đã dịch xong)                        |
+| SUBWORLDS           | Vùng con trong asteroid                                       |
 | INPUT               | Input bổ sung                                                 |
-| STICKERNAMES        | Tên sticker (hầu như chưa dịch)                               |
+| STICKERNAMES        | Tên sticker                                                   |
 | LORE                | Lore / câu chuyện nền                                         |
-| VIDEOS              | Video trong game (đã dịch xong)                               |
+| VIDEOS              | Video trong game                                              |
 
-## Ưu tiên review
+## Ưu tiên dịch mới
 
-### Đã dịch nhiều — cần review chất lượng
-1. **UI** (4,393 chuỗi) — ảnh hưởng trải nghiệm nhiều nhất
-2. **DUPLICANTS** (2,256 chuỗi) — tên, kỹ năng, đặc điểm
-3. **BUILDINGS** + **BUILDING** (2,691 chuỗi) — tên và mô tả công trình
-4. **CODEX** (995 chuỗi) — bách khoa toàn thư
-5. **CREATURES** (776 chuỗi) — sinh vật
+1. **CODEX** (576 chuỗi chưa dịch) — bách khoa toàn thư
+2. **DUPLICANTS** (437 chuỗi chưa dịch) — tên, kỹ năng, đặc điểm
+3. **CREATURES** (292 chuỗi chưa dịch) — sinh vật
+4. **ITEMS** (169 chuỗi chưa dịch) — vật phẩm
+5. **ELEMENTS** (163 chuỗi chưa dịch) — nguyên tố
+6. **MISC** (101 chuỗi chưa dịch) — thông báo chung
+7. **BLUEPRINTS** (84 chuỗi chưa dịch)
+8. **RESEARCH** (56 chuỗi chưa dịch)
 
-### Đã dịch xong (100%)
-- **ROOMS** (287 chuỗi)
+## Đã dịch xong (100%)
+
+- **BUILDINGS** (2,538 chuỗi)
+- **EQUIPMENT** (392 chuỗi)
+- **ROOMS** (286 chuỗi)
+- **INPUT_BINDINGS** (188 chuỗi)
+- **WORLDS** (159 chuỗi)
+- **GAMEPLAY_EVENTS** (91 chuỗi)
 - **SUBWORLDS** (75 chuỗi)
 - **WORLD_TRAITS** (50 chuỗi)
 - **SEARCH_TERMS** (39 chuỗi)
+- **INPUT** (21 chuỗi)
+- **STICKERNAMES** (20 chuỗi)
 - **VIDEOS** (7 chuỗi)
-
-### Chưa dịch — cần dịch mới
-1. **BLUEPRINTS** (830 chuỗi) — 0% hoàn toàn chưa dịch
-2. **UI** (1,265 chuỗi chưa dịch) — quan trọng nhất
-3. **BUILDINGS** (899 chuỗi chưa dịch)
-4. **CODEX** (639 chuỗi chưa dịch)
-5. **EQUIPMENT** (419 chuỗi chưa dịch) — 44.4%
-6. **CREATURES** (418 chuỗi chưa dịch)
