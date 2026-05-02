@@ -6,16 +6,16 @@ Cập nhật: 2026-05-02
 
 | Category                  | Translated | Untranslated |   Total | Progress |
 |---------------------------|------------|--------------|---------|----------|
-| UI                        |       5634 |           24 |    5658 |   99.6% |
+| UI                        |       5658 |            0 |    5658 |  100.0% |
 | BUILDINGS                 |       2808 |            0 |    2808 |  100.0% |
 | DUPLICANTS                |       2256 |          462 |    2718 |   83.0% |
-| CODEX                     |        995 |          639 |    1634 |   60.9% |
+| CODEX                     |        994 |          639 |    1633 |   60.9% |
 | CREATURES                 |        888 |          306 |    1194 |   74.4% |
-| BUILDING                  |        828 |           38 |     866 |   95.6% |
+| BUILDING                  |        866 |            0 |     866 |  100.0% |
 | BLUEPRINTS                |        736 |           94 |     830 |   88.7% |
 | EQUIPMENT                 |        754 |            0 |     754 |  100.0% |
 | MISC                      |        482 |          110 |     592 |   81.4% |
-| NAMEGEN                   |        536 |           19 |     555 |   96.6% |
+| NAMEGEN                   |        555 |            0 |     555 |  100.0% |
 | ELEMENTS                  |        435 |            0 |     435 |  100.0% |
 | ITEMS                     |        227 |          172 |     399 |   56.9% |
 | RESEARCH                  |        323 |            0 |     323 |  100.0% |
@@ -25,16 +25,16 @@ Cập nhật: 2026-05-02
 | WORLDS                    |        159 |            0 |     159 |  100.0% |
 | GAMEPLAY_EVENTS           |         93 |            0 |      93 |  100.0% |
 | SUBWORLDS                 |         75 |            0 |      75 |  100.0% |
-| CLUSTER_NAMES             |         60 |            2 |      62 |   96.8% |
-| ROBOTS                    |         44 |           12 |      56 |   78.6% |
+| CLUSTER_NAMES             |         62 |            0 |      62 |  100.0% |
+| ROBOTS                    |         56 |            0 |      56 |  100.0% |
 | WORLD_TRAITS              |         50 |            0 |      50 |  100.0% |
 | SEARCH_TERMS              |         39 |            0 |      39 |  100.0% |
 | INPUT                     |         21 |            0 |      21 |  100.0% |
 | STICKERNAMES              |         20 |            0 |      20 |  100.0% |
-| LORE                      |         12 |            2 |      14 |   85.7% |
+| LORE                      |         14 |            0 |      14 |  100.0% |
 | VIDEOS                    |          7 |            0 |       7 |  100.0% |
 |---------------------------|------------|--------------|---------|----------|
-| **TOTAL**                 | **18168**  |     **1964** | **20132** | **90.2%** |
+| **TOTAL**                 | **18264**  |     **1867** | **20131** | **90.7%** |
 
 > Lưu ý: Bảng trên loại bỏ obsolete entries (`#~`) và entries có msgid rỗng.
 > msgfmt báo 18,108 translated / 2,214 untranslated (tổng 20,322) vì nó đếm
@@ -88,7 +88,13 @@ Cập nhật: 2026-05-02
 
 ## Đã dịch xong (100%)
 
+- **UI** (5,658 chuỗi)
+- **BUILDING** (866 chuỗi)
 - **RESEARCH** (323 chuỗi)
+- **NAMEGEN** (555 chuỗi)
+- **ROBOTS** (56 chuỗi)
+- **CLUSTER_NAMES** (62 chuỗi)
+- **LORE** (14 chuỗi)
 - **BUILDINGS** (2,808 chuỗi)
 - **EQUIPMENT** (754 chuỗi)
 - **ELEMENTS** (435 chuỗi)
