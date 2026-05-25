@@ -4,6 +4,8 @@
 
 ---
 
+![Aquatic Planet Pack](https://cdn.forums.klei.com/monthly_2026_05/image.gif.c8e39a4ffb3173b1306b5969f81abb61.gif)
+
 ## Thông tin cập nhật
 
 Xin chào các đệ,
