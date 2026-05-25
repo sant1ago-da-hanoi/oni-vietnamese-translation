@@ -29,7 +29,7 @@ Các mục mới và thay đổi trong mục "All versions" của patch notes đ
 Thế giới khởi đầu mới có bốn quần xã sinh vật, mỗi quần xã có hệ sinh thái riêng:
 
 - **Bãi biển (Beach)** — Là nhà của Cọ kẹo cao su (Gum Palm), Mía Soda (Sodicane) ăn được và Mầm trai (Mussel Sprouts). Sinh vật mới ở đây là Ốc Lười (Slogo) và Cá Phồng (Blowter).
-- **Rạn san hô (Reef)** — Có trai khổng lồ sản xuất Ngọc trai, cây Sao Hà (Starnacle) và Liễu Bông (Petta Pouf), Cá Đuốc (Beakon) và Cá Phồng, San hô ống khói (Flue Coral) sản xuất oxy, và Cá Ngựa (Seaquine). Cá Ngựa có thể được vắt sữa tại Trạm vắt sữa thủy sinh (Aquatic Milking Station) để lấy Dầu Trứng (Ovolene), thứ có thể được chế biến thành Caviar tăng Tinh thần.
+- **Rạn san hô (Reef)** — Có trai khổng lồ sản xuất Ngọc trai, cây Sao Hà (Starnacle) và Liễu Bông (Petta Pouf), Cá Đuốc (Beakon) và Cá Phồng, San hô ống khói (Flue Coral) sản xuất oxy, và Cá Ngựa (Seaquine). Cá Ngựa có thể được vắt sữa tại Trạm vắt sữa thủy sinh (Aquatic Milking Station) để lấy Dầu Trứng (Ovolene), có thể chế biến thành Caviar để tăng Tinh thần.
 - **Rừng tảo bẹ (Kelp Forest)** — Cây Tảo bẹ tháp (Tower Kelp) nuôi dưỡng sinh vật Rong Con (Kelpole) bé nhỏ — cả hai đều có thể thu hoạch lấy Nori, một nguyên liệu dùng tại Quầy Sushi (Sushi Bar) mới. Cua Quặng (Orehull) cũng sống ở đây, và có thể xén lông lấy Quặng sắt.
 - **Vực thẳm (Abyss)** — Chứa Mực Phát Quang (Glo Squid) cùng các cây bản địa kỳ lạ Rong Ống (Tublia), Túi Gai (Pinpoket) và Hoa Bóng Đèn (Bulbloom).
 
@@ -43,7 +43,7 @@ Bao gồm Cao su (Rubber), dùng để chế tạo Dây dẫn cách nhiệt 4kW 
 - **Khe nứt khí nóng (Thermal Gas Fissure)** — ở quần xã Vực thẳm
 - **Mạch nước muối ô nhiễm (Polluted Brine Vent)** — ở quần xã Vực thẳm
 
-Cũng có các ô tường nền tự nhiên có thể đào xuyên khắp tiểu hành tinh mới.
+Cũng có các ô tường nền tự nhiên có thể đào xuyên suốt tiểu hành tinh mới.
 
 ---
 
@@ -140,7 +140,7 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên khắp tiể
   - Cài đặt Scramble DLC mới cho quần xã và DLC mới.
   - 3 cụm sao mới (base game, Classic Style trong Spaced Out!, và Spaced Out! style).
   - Ủng cao su (Rubber Boots) — bảo vệ đệ khỏi Soggy Feet.
-  - Đồ bơi (Swimwear) — thêm cách nhiệt và bảo vệ khỏi debuff chất lỏng.
+  - Đồ bơi (Swimwear) — thêm cách nhiệt và bảo vệ khỏi các hiệu ứng xấu khi ngập trong chất lỏng.
   - Thêm Gioăng cao su (Rubber Gasket) và công thức chế tạo — thay thế cho loại nhựa.
   - Thêm công thức Dầu Trứng → Caviar vào Máy glean (Gleaner).
   - Thêm 2 bài nhạc mới vào game.
@@ -170,26 +170,26 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên khắp tiể
 
 - Đệ giờ sẽ **bất tỉnh** (incapacitated) khi ngạt thở, thay vì chết ngay lập tức.
 - Đệ sẽ thực hiện **hô hấp nhân tạo (CPR)** lên đồng đội bất tỉnh do ngạt thở.
-- Kích ứng mắt (Eye Irritation) giờ gây phạt Stress thay vì phạt Thể lực (Athletic).
-- Đệ giờ có phạt thể lực khi di chuyển qua chất lỏng với khối lượng lớn.
+- Kích ứng mắt (Eye Irritation) giờ làm tăng Stress thay vì giảm Thể lực (Athletic).
+- Đệ giờ bị giảm Thể lực khi di chuyển qua chất lỏng với khối lượng lớn.
 - Hơi thở (Breath) giờ hiển thị dưới dạng số nguyên đơn giản thay vì phần trăm (giống Máu).
 - Đệ có tật **Đầy hơi (Flatulent)** sẽ tạo bong bóng khi xì hơi trong chất lỏng.
-- Thêm phạt Thể lực (Stamina) cho hiệu ứng Soggy Feet và Sopping Wet, giảm phạt Stress.
-- Đệ có lượng hơi thở thấp và chỉ số Hơi thở cao sẽ không hiển thị biểu cảm đau đớn khi ngập trong chất lỏng.
+- Hiệu ứng Soggy Feet và Sopping Wet giờ làm giảm Thể lực (Stamina) thay vì tăng Stress.
+- Đệ có hơi thở còn ít nhưng chỉ số Breath cao sẽ không hiển thị biểu cảm đau đớn khi ngập trong chất lỏng.
 - Đệ bỏ chạy giờ kích hoạt thông báo đỏ.
 
 #### Thay đổi sinh vật (Critter changes)
 
 - Trứng từ mọi loài Pacu không còn rơi vỏ trứng (Eggshell).
 - Giảm khối lượng trứng Pacu và sản lượng kcal Trứng sống (Raw Egg).
-- Giảm lượng thức ăn Pokeshell và Sanishell cần mỗi chu kỳ.
+- Giảm lượng thức ăn Pokeshell và Sanishell cần mỗi ngày.
 - Tăng khối lượng Lột xác Pokeshell (Pokeshell Molt).
 - Tăng tỷ lệ chuyển đổi cát của Sanishell.
 - Sinh vật hoang dã giờ hiển thị Hạnh phúc (Happiness), Trao đổi chất (Metabolism), Nhiệt độ cơ thể (Body Temperature), Sinh sản (Reproduction), Nguồn cung Brackene, và Accu-moo-lation trong bảng Điều kiện (Condition Panel) của màn Hồ sơ (Details Screen).
-- Giảm hiệu quả giảm thuần tính hoang dã (Wildness reduction) của Máy cho cá ăn (Fish Feeder).
-- Máy cho sinh vật ăn (Critter Feeder) giờ cung cấp hiệu quả giảm thuần tính hoang dã tương đương Máy cho cá ăn.
+- Máy cho cá ăn (Fish Feeder) giờ kém hiệu quả hơn trong việc thuần hóa sinh vật (giảm Wildness).
+- Máy cho sinh vật ăn (Critter Feeder) giờ thuần hóa sinh vật hiệu quả ngang Máy cho cá ăn.
 - Ăn từ Máy cho cá ăn không còn cung cấp thưởng Hạnh phúc cho sinh vật.
-- Thưởng tốc độ Sinh sản (Reproduction) cho sinh vật đã Thuần hóa (Tame) và Hạnh phúc (Happy) giờ tỷ lệ thuận với giá trị hạnh phúc cụ thể.
+- Tốc độ Sinh sản (Reproduction) của sinh vật đã Thuần hóa (Tame) và Hạnh phúc (Happy) giờ tỷ lệ thuận với mức độ hạnh phúc thực tế.
 - Ngưỡng cho trạng thái "Mood: Happy" đã được điều chỉnh xuống +1.
 - Pacu Treat cung cấp thưởng Hạnh phúc cho Pacu. Nhiều loại hạt giống có thể được chuyển đổi thành Pacu Treat tại Máy nhào vi sinh (Microbe Musher).
 - Sinh vật không phải cá không còn tính cá vào tính toán quá tải (overcrowding).
@@ -204,7 +204,7 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên khắp tiể
 #### Công trình (Buildings)
 
 - Thông tin trạng thái Sản lượng nhiệt và Yêu cầu năng lượng của Máy sưởi không gian (Space Heater) giờ điều chỉnh động để phản ánh wattage đang chọn trên thanh trượt Tiêu thụ năng lượng.
-- Thả cá (Fish Release) giờ có thể được đặt cách bề mặt chất lỏng vài ô và vẫn hoạt động. Nghệ thuật đã được điều chỉnh tương ứng.
+- Thả cá (Fish Release) giờ có thể được đặt cách bề mặt chất lỏng vài ô và vẫn hoạt động. Sprite đã được cập nhật tương ứng.
 - Máy cho cá ăn (Fish Feeder) và Thả cá (Fish Release) không còn bị phá hủy bởi áp lực chất lỏng.
 - Mucin có thể dùng thay Nước trong công thức Brackene tại Máy nghiền thực vật (Plant Pulverizer).
 - Mucin có thể dùng thay thế cho Nước trong công thức Mush Bar và Liceloaf.
@@ -269,7 +269,7 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên khắp tiể
 - Sửa lỗi tên file save dài trong ngôn ngữ đa byte không cho phép lưu thủ công.
 - Sửa lỗi khi đổ chai chất lỏng từ Máy đổ chai (Bottle Filler) đôi khi hiển thị màu chất lỏng không khớp với chất lỏng mà đệ đang cố nhặt.
 - Sửa lỗi hiển thị trên Máy đổ chai (Bottle Filler) nơi chai đệ nhặt không khớp với lượng chất lỏng chứa trong đó.
-- Truy vấn an toàn của việc Phục hồi hơi thở (Recover Breath) giờ kiểm tra các ô lân cận cho oxy, không chỉ ô đệ đang đứng.
+- Khi đệ Phục hồi hơi thở (Recover Breath), game giờ kiểm tra cả các ô lân cận có oxy, không chỉ ô đệ đang đứng.
 - Đệ phục hồi hơi thở khi đang trên thang giờ chạy hoạt ảnh đúng.
 - Sửa lỗi phản ứng (reactions) không chạy đúng.
 - Xóa dòng chữ "Copy of " trong tiêu đề lịch trình mặc định của màn Lịch trình (Schedule screen).
@@ -281,11 +281,11 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên khắp tiể
 - Sửa lỗi công trình đã được đổi tên bị mất tên tùy chỉnh khi áp dụng bản vẽ thẩm mỹ khác hoặc khi tải save.
 - Sửa lỗi xem trước vị trí xây dựng biến mất khi di chuyển camera.
 - Sửa lỗi chính tả trên dòng chữ sửa chữa cho Mặt nạ oxy cũ (Worn Oxygen Masks).
-- Chỉnh tỷ lệ khung hình của nghệ thuật chuyển đổi DLC trong menu ESC.
-- Trạng thái trên đường ống rỗng trong căn cứ thiếu đệ có kỹ năng Sửa ống nước (Plumbing) giờ sẽ cập nhật đúng khi đệ có được kỹ năng đó.
+- Chỉnh tỷ lệ khung hình của ảnh chuyển đổi DLC trong menu ESC.
+- Sửa lỗi đường ống rỗng không cập nhật trạng thái đúng khi căn cứ chưa có đệ nào có kỹ năng Sửa ống nước (Plumbing).
 - Tia sáng từ nguồn sáng giờ áp dụng màu sắc đã định. Điều này làm một số đèn màu trở nên rực rỡ hơn.
 - Sửa crash khi tải save có bản vẽ tượng đài DLC nhưng không cài DLC đó.
-- Pacu giờ có thêm linh hoạt khi di chuyển qua các chất lỏng không đáng kể (insubstantial liquids) xếp chồng.
+- Pacu giờ linh hoạt hơn khi di chuyển qua các lớp chất lỏng lượng nhỏ xếp chồng.
 - Máy khử muối (Desalinator) giờ chỉ hiển thị thông tin chuyển đổi cho nguyên tố đang được xử lý.
 - Sửa Chuồng sinh vật thủy sinh (Aquatic Critter Condo) không hiển thị trạng thái khi không ngập trong chất lỏng.
 - Sửa sinh vật thủy sinh lớn đi đến ô sai cho Chuồng sinh vật thủy sinh.
@@ -329,7 +329,7 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên khắp tiể
 
 Về hiệu suất, nhánh Testing có thêm các công cụ gỡ lỗi để giúp chúng tôi truy tìm crash. Điều này làm game chạy chậm hơn so với phiên bản live của game.
 
-**Xin lưu ý rằng một khi save đã được tải trong nhánh Testing, nó không thể được mở lại trong nhánh Live trước đó hoặc các bản dựng trước.**
+**Lưu ý: một khi save đã được tải trong nhánh Testing, nó không thể mở lại trên nhánh Live hoặc các bản dựng cũ hơn.**
 
 ### Tôi có phải chơi bản public testing không?
 
