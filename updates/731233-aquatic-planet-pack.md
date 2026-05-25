@@ -29,9 +29,9 @@ Các mục mới và thay đổi trong mục "All versions" của patch notes đ
 Thế giới khởi đầu mới có bốn quần xã sinh vật, mỗi quần xã có hệ sinh thái riêng:
 
 - **Bãi biển (Beach)** — Là nhà của Cọ kẹo cao su (Gum Palm), Mía Soda (Sodicane) ăn được và Mầm trai (Mussel Sprouts). Sinh vật mới ở đây là Ốc Lười (Slogo) và Cá Phồng (Blowter).
-- **Rạn san hô (Reef)** — Có trai khổng lồ sản xuất Ngọc trai, cây Sao Bám (Starnacle) và Bông Phồng (Petta Pouf), Cá Đuốc (Beakon) và Cá Phồng, San hô ống khói (Flue Coral) sản xuất oxy, và Cá Ngựa (Seaquine). Cá Ngựa có thể được vắt sữa tại Trạm vắt sữa thủy sinh (Aquatic Milking Station) để lấy Dầu Trứng (Ovolene), thứ có thể được chế biến thành Caviar tăng Tinh thần.
+- **Rạn san hô (Reef)** — Có trai khổng lồ sản xuất Ngọc trai, cây Sao Hà (Starnacle) và Liễu Bông (Petta Pouf), Cá Đuốc (Beakon) và Cá Phồng, San hô ống khói (Flue Coral) sản xuất oxy, và Cá Ngựa (Seaquine). Cá Ngựa có thể được vắt sữa tại Trạm vắt sữa thủy sinh (Aquatic Milking Station) để lấy Dầu Trứng (Ovolene), thứ có thể được chế biến thành Caviar tăng Tinh thần.
 - **Rừng tảo bẹ (Kelp Forest)** — Cây Tảo bẹ tháp (Tower Kelp) nuôi dưỡng sinh vật Rong Con (Kelpole) bé nhỏ — cả hai đều có thể thu hoạch lấy Nori, một nguyên liệu dùng tại Quầy Sushi (Sushi Bar) mới. Cua Quặng (Orehull) cũng sống ở đây, và có thể xén lông lấy Quặng sắt.
-- **Vực thẳm (Abyss)** — Chứa Mực Phát Quang (Glo Squid) cùng các cây bản địa kỳ lạ Rong Ống (Tublia), Túi Gai (Pinpoket) và Củ Hoa (Bulbloom).
+- **Vực thẳm (Abyss)** — Chứa Mực Phát Quang (Glo Squid) cùng các cây bản địa kỳ lạ Rong Ống (Tublia), Túi Gai (Pinpoket) và Hoa Bóng Đèn (Bulbloom).
 
 ### Nguyên tố mới
 
@@ -83,17 +83,17 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên khắp tiể
   - Cây Mía Soda (Sodicane)
   - Cây Cọ kẹo cao su (Gum Palm)
   - Cây Mầm trai (Mussel Sprouts) — cây thức ăn hoang dại
-  - Cây Cốc Im (Husha Cups) — cây trang trí
+  - Cây Cốc Tĩnh (Husha Cups) — cây trang trí
   - Ốc Lười (Slogo)
   - Khung cảnh Bãi biển (Beached vista)
 - **Quần xã Rạn san hô (Reef biome)**:
   - Cá Đuốc (Beakon)
   - Cá Phồng (Blowter)
   - Trai Kẹp (Clampum)
-  - Sao Bám (Starnacle)
+  - Sao Hà (Starnacle)
   - Cá Ngựa (Seaquine)
   - San hô ống khói (Flue Coral)
-  - Bông Phồng (Petta Pouf) — cây trang trí
+  - Liễu Bông (Petta Pouf) — cây trang trí
   - Suối thủy triều (Tidal Spring)
   - Khung cảnh Rạn san hô (Reef vista)
 - **Quần xã Rừng tảo bẹ (Kelp Forest Biome)**:
@@ -106,7 +106,7 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên khắp tiể
   - Rong Ống (Tublia)
   - Túi Gai (Pinpoket)
   - Mạch nước muối ô nhiễm (Polluted Brine Vent)
-  - Củ Hoa (Bulbloom) — cây trang trí
+  - Hoa Bóng Đèn (Bulbloom) — cây trang trí
   - Sên Vàng (Gildgo, biến thể của Ốc Lười)
   - Khe nứt khí nóng (Thermal Gas Fissure)
 - **Thức ăn (Food)**:
@@ -343,99 +343,99 @@ Không có đăng ký hay ghi danh để trở thành open tester. Nếu bạn s
 
 ## Thuật ngữ tổng hợp
 
-| English | Tiếng Việt | Ngữ cảnh |
-|---------|-----------|----------|
-| Aquatic Planet Pack | Gói Hành tinh Thủy sinh | Tên DLC |
-| Beach | Bãi biển | Quần xã |
-| Reef | Rạn san hô | Quần xã |
-| Kelp Forest | Rừng tảo bẹ | Quần xã |
-| Abyss | Vực thẳm | Quần xã |
-| Biome | Quần xã sinh vật | Sinh thái |
-| Swimming | Bơi lội | Kỹ năng |
-| Basic Swimming | Bơi cơ bản | Kỹ năng |
-| Divemaster | Thợ lặn | Kỹ năng |
-| Fine Dining | Ẩm thực cao cấp | Kỹ năng |
-| Enhanced Seasoning | Gia vị nâng cao | Kỹ năng |
-| Incapacitated | Bất tỉnh | Trạng thái đệ |
-| CPR | Hô hấp nhân tạo | Hành động |
-| Happiness | Hạnh phúc | Chỉ số sinh vật |
-| Wildness | Thuần tính hoang dã | Chỉ số sinh vật |
-| Tame | Thuần hóa | Trạng thái |
-| Reproduction | Sinh sản | Cơ chế |
-| Overcrowding | Quá tải | Cơ chế |
-| Bubble | Bong bóng | Cơ chế |
-| Natural Backwall | Tường nền tự nhiên | Thế giới |
-| Submersible | Chìm | Loại công trình |
-| Gasket | Gioăng | Vật phẩm |
-| Vulcanizer | Máy lưu hóa | Công trình |
-| Tidal Turbine | Tuabin thủy triều | Công trình |
-| Marine Drill | Khoan biển | Công trình |
-| Aquatic | Thủy sinh | Tiền tố |
-| Hydroponic | Thủy canh | Nông nghiệp |
-| Insulated | Cách nhiệt | Dây dẫn |
-| Conductive | Dẫn điện | Dây dẫn |
-| Grooming Station | Trạm chải chuốt | Chăm sóc sinh vật |
-| Shearing Station | Trạm xén lông | Chăm sóc sinh vật |
-| Milking Station | Trạm vắt sữa | Chăm sóc sinh vật |
-| Fishing Station | Trạm câu cá | Chăm sóc sinh vật |
-| Fish Fillet | Phi lê cá | Thức ăn |
-| Soggy Feet | Chân ướt | Hiệu ứng |
-| Sopping Wet | Ướt sũng | Hiệu ứng |
-| Eye Irritation | Kích ứng mắt | Hiệu ứng |
-| Flatulent | Đầy hơi | Đặc điểm đệ |
-| Glowy | Dạ quang | Hạng mục vật liệu |
-| Glassy | Dạng kính | Hạng mục vật liệu |
-| Tidal Spring | Suối thủy triều | Mạch phun |
-| Thermal Gas Fissure | Khe nứt khí nóng | Mạch phun |
-| Polluted Brine Vent | Mạch nước muối ô nhiễm | Mạch phun |
-| Gum Palm | Cọ kẹo cao su | Cây |
-| Sodicane | Mía Soda | Cây |
-| Mussel Sprouts | Mầm trai | Cây |
-| Tower Kelp | Tảo bẹ tháp | Cây |
-| Flue Coral | San hô ống khói | Cây |
-| Clampum | Trai Kẹp | Cây |
-| Starnacle | Sao Bám | Cây |
-| Petta Pouf | Bông Phồng | Cây |
-| Tublia | Rong Ống | Cây |
-| Pinpoket | Túi Gai | Cây |
-| Bulbloom | Củ Hoa | Cây |
-| Husha Cups | Cốc Im | Cây |
-| Pearl | Ngọc trai | Nguyên tố |
-| Rubber | Cao su | Nguyên tố |
-| Siltstone | Đá phù sa | Nguyên tố |
-| Zinc | Kẽm | Nguyên tố |
-| Corallium | Đá San Hô | Nguyên tố |
-| Coquina | Đá Vỏ Sò | Nguyên tố |
-| Basalt | Đá bazan | Nguyên tố |
-| Gum Wood | Gỗ cao su | Nguyên tố |
-| Latex | Nhựa mủ | Nguyên tố |
-| Ovolene | Dầu Trứng | Nguyên tố |
-| Ink | Mực | Nguyên tố |
-| Polluted Brine | Nước muối ô nhiễm | Nguyên tố |
-| Galena | Quặng Chì | Nguyên tố |
-| Slogo | Ốc Lười | Sinh vật |
-| Blowter | Cá Phồng | Sinh vật |
-| Beakon | Cá Đuốc | Sinh vật |
-| Seaquine | Cá Ngựa | Sinh vật |
-| Orehull | Cua Quặng | Sinh vật |
-| Kelpole | Rong Con | Sinh vật |
-| Glo Squid | Mực Phát Quang | Sinh vật |
-| Gildgo | Sên Vàng | Sinh vật |
-| Edamame | Đậu Nành Non | Thức ăn |
-| Tobiko | Trứng Cá Chuồn | Thức ăn |
-| Nigiri | Cơm Nắm | Thức ăn |
-| Sushi Roll | Sushi Cuộn | Thức ăn |
-| Uni | Nhím Biển | Thức ăn |
-| Nori | Rong Nori | Thức ăn |
-| Mussel Tongue | Lưỡi Trai | Thức ăn |
-| Calamari | Mực Chiên | Thức ăn |
+| English | Tiếng Việt | 中文 (tham khảo) | Ngữ cảnh |
+|---------|-----------|----------------|----------|
+| Aquatic Planet Pack | Gói Hành tinh Thủy sinh | 水生行星包 | Tên DLC |
+| Beach | Bãi biển | 沙滩 | Quần xã |
+| Reef | Rạn san hô | 珊瑚 | Quần xã |
+| Kelp Forest | Rừng tảo bẹ | 藻林 | Quần xã |
+| Abyss | Vực thẳm | 深渊 | Quần xã |
+| Biome | Quần xã sinh vật | 生态 | Sinh thái |
+| Swimming | Bơi lội | 游泳 | Kỹ năng |
+| Basic Swimming | Bơi cơ bản | 基础游泳 | Kỹ năng |
+| Divemaster | Thợ lặn | 潜水大师 | Kỹ năng |
+| Fine Dining | Ẩm thực cao cấp | 精致餐食 | Kỹ năng |
+| Enhanced Seasoning | Gia vị nâng cao | 增强香料 | Kỹ năng |
+| Incapacitated | Bất tỉnh | 失去行动能力 | Trạng thái đệ |
+| CPR | Hô hấp nhân tạo | 心肺复苏 | Hành động |
+| Happiness | Hạnh phúc | 幸福度 | Chỉ số sinh vật |
+| Wildness | Thuần tính hoang dã | 野性 | Chỉ số sinh vật |
+| Tame | Thuần hóa | 驯化 | Trạng thái |
+| Reproduction | Sinh sản | 繁殖 | Cơ chế |
+| Overcrowding | Quá tải | 拥挤 | Cơ chế |
+| Bubble | Bong bóng | 气泡 | Cơ chế |
+| Natural Backwall | Tường nền tự nhiên | 天然背景墙 | Thế giới |
+| Submersible | Chìm | 可潜水 | Loại công trình |
+| Gasket | Gioăng | 密封圈 | Vật phẩm |
+| Vulcanizer | Máy lưu hóa | 硫化器 | Công trình |
+| Tidal Turbine | Tuabin thủy triều | 潮汐涡轮机 | Công trình |
+| Marine Drill | Khoan biển | 海洋钻机 | Công trình |
+| Aquatic | Thủy sinh | 水生 | Tiền tố |
+| Hydroponic | Thủy canh | 液培 | Nông nghiệp |
+| Insulated | Cách nhiệt | 绝缘 | Dây dẫn |
+| Conductive | Dẫn điện | 导线 | Dây dẫn |
+| Grooming Station | Trạm chải chuốt | 梳理站 | Chăm sóc sinh vật |
+| Shearing Station | Trạm xén lông | 修剪站 | Chăm sóc sinh vật |
+| Milking Station | Trạm vắt sữa | 挤奶站 | Chăm sóc sinh vật |
+| Fishing Station | Trạm câu cá | — | Chăm sóc sinh vật |
+| Fish Fillet | Phi lê cá | 鱼片 | Thức ăn |
+| Soggy Feet | Chân ướt | 双脚湿透 | Hiệu ứng |
+| Sopping Wet | Ướt sũng | 浑身湿透 | Hiệu ứng |
+| Eye Irritation | Kích ứng mắt | 眼部刺激 | Hiệu ứng |
+| Flatulent | Đầy hơi | 胃肠胀气 | Đặc điểm đệ |
+| Glowy | Dạ quang | — | Hạng mục vật liệu |
+| Glassy | Dạng kính | 玻璃状 | Hạng mục vật liệu |
+| Tidal Spring | Suối thủy triều | 潮汐泉 | Mạch phun |
+| Thermal Gas Fissure | Khe nứt khí nóng | 热气裂缝 | Mạch phun |
+| Polluted Brine Vent | Mạch nước muối ô nhiễm | 污染浓盐水喷孔 | Mạch phun |
+| Gum Palm | Cọ kẹo cao su | 粘胶棕榈 | Cây |
+| Sodicane | Mía Soda | 咸蔗 | Cây |
+| Mussel Sprouts | Mầm trai | 贻贝芽 | Cây |
+| Tower Kelp | Tảo bẹ tháp | 塔藻 | Cây |
+| Flue Coral | San hô ống khói | 烟囱珊瑚 | Cây |
+| Clampum | Trai Kẹp | 巨钳蚌 | Cây |
+| Starnacle | Sao Hà | 藤壶星 | Cây |
+| Petta Pouf | Liễu Bông | 蓬茸柳 | Cây |
+| Tublia | Rong Ống | 管虫 | Cây |
+| Pinpoket | Túi Gai | 针胆团 | Cây |
+| Bulbloom | Hoa Bóng Đèn | 灯泡花 | Cây |
+| Husha Cups | Cốc Tĩnh | 静杯花 | Cây |
+| Pearl | Ngọc trai | 珍珠 | Nguyên tố |
+| Rubber | Cao su | 橡胶 | Nguyên tố |
+| Siltstone | Đá phù sa | 粉砂岩 | Nguyên tố |
+| Zinc | Kẽm | 锌 | Nguyên tố |
+| Corallium | Đá San Hô | 珊瑚质 | Nguyên tố |
+| Coquina | Đá Vỏ Sò | 壳灰岩 | Nguyên tố |
+| Basalt | Đá bazan | 玄武岩 | Nguyên tố |
+| Gum Wood | Gỗ cao su | 粘胶木材 | Nguyên tố |
+| Latex | Nhựa mủ | 胶乳 | Nguyên tố |
+| Ovolene | Dầu Trứng | 卵浆 | Nguyên tố |
+| Ink | Mực | 鱿鱼墨汁 | Nguyên tố |
+| Polluted Brine | Nước muối ô nhiễm | 污染浓盐水 | Nguyên tố |
+| Galena | Quặng Chì | 方铅矿 | Nguyên tố |
+| Slogo | Ốc Lười | 缓螺 | Sinh vật |
+| Blowter | Cá Phồng | 鼓气鱼 | Sinh vật |
+| Beakon | Cá Đuốc | 灯喙鱼 | Sinh vật |
+| Seaquine | Cá Ngựa | 海马 | Sinh vật |
+| Orehull | Cua Quặng | 矿甲龟 | Sinh vật |
+| Kelpole | Rong Con | 藻蝌蚪 | Sinh vật |
+| Glo Squid | Mực Phát Quang | 彩斑鱿 | Sinh vật |
+| Gildgo | Sên Vàng | 金螺 | Sinh vật |
+| Edamame | Đậu Nành Non | 毛豆 | Thức ăn |
+| Tobiko | Trứng Cá Chuồn | 鱼子酱 | Thức ăn |
+| Nigiri | Cơm Nắm | 握寿司 | Thức ăn |
+| Sushi Roll | Sushi Cuộn | 寿司卷 | Thức ăn |
+| Uni | Nhím Biển | 针胆黄 | Thức ăn |
+| Nori | Rong Nori | 海苔 | Thức ăn |
+| Mussel Tongue | Lưỡi Trai | 贻贝舌 | Thức ăn |
+| Calamari | Mực Chiên | 鱿鱼肉 | Thức ăn |
 
 ---
 
 ## Ghi chú dịch thuật
 
-1. **Tên sinh vật mới**: Slogo → Ốc Lười (chơi chữ "lười" = slow), Blowter → Cá Phồng (cá nóc phồng lên), Beakon → Cá Đuốc (đuốc = beacon), Seaquine → Cá Ngựa (ngựa biển = seahorse), Orehull → Cua Quặng (xén lông ra quặng sắt), Kelpole → Rong Con (sinh vật nhỏ trong rừng tảo), Glo Squid → Mực Phát Quang, Gildgo → Sên Vàng (biến thể của Ốc Lười).
-2. **Tên cây mới**: Sodicane → Mía Soda, Starnacle → Sao Bám, Petta Pouf → Bông Phồng, Tublia → Rong Ống, Pinpoket → Túi Gai, Bulbloom → Củ Hoa, Clampum → Trai Kẹp, Husha Cups → Cốc Im.
+1. **Tên sinh vật mới**: Slogo → Ốc Lười (缓螺, chơi chữ "lười" = slow), Blowter → Cá Phồng (鼓气鱼, cá nóc phồng lên), Beakon → Cá Đuốc (灯喙鱼, đuốc = beacon), Seaquine → Cá Ngựa (海马, seahorse), Orehull → Cua Quặng (矿甲龟, xén lông ra quặng sắt), Kelpole → Rong Con (藻蝌蚪, sinh vật nhỏ trong rừng tảo), Glo Squid → Mực Phát Quang (彩斑鱿), Gildgo → Sên Vàng (金螺, biến thể của Ốc Lười).
+2. **Tên cây mới**: Sodicane → Mía Soda, Starnacle → Sao Hà (藤壶星), Petta Pouf → Liễu Bông (蓬茸柳), Tublia → Rong Ống, Pinpoket → Túi Gai, Bulbloom → Hoa Bóng Đèn (灯泡花), Clampum → Trai Kẹp, Husha Cups → Cốc Tĩnh (静杯花).
 3. **Tên nguyên tố mới**: Corallium → Đá San Hô, Coquina → Đá Vỏ Sò, Galena → Quặng Chì, Ovolene → Dầu Trứng.
 4. **Tên món ăn**: Edamame → Đậu Nành Non, Tobiko → Trứng Cá Chuồn, Nigiri → Cơm Nắm, Uni → Nhím Biển, Nori → Rong Nori, Calamari → Mực Chiên, Mussel Tongue → Lưỡi Trai.
 5. **Tên công trình**: Dịch mô tả chức năng, giữ cấu trúc nhất quán ("Trạm + chức năng + thủy sinh" cho các trạm chăm sóc).
