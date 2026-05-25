@@ -29,7 +29,7 @@ Các mục mới và thay đổi trong mục "All versions" của patch notes đ
 Thế giới khởi đầu mới có bốn quần xã sinh vật, mỗi quần xã có hệ sinh thái riêng:
 
 - **Bãi biển (Beach)** — Là nhà của Cọ kẹo cao su (Gum Palm), Mía Soda (Sodicane) ăn được và Mầm trai (Mussel Sprouts). Sinh vật mới ở đây là Ốc Lười (Slogo) và Cá Phồng (Blowter).
-- **Rạn san hô (Reef)** — Có trai khổng lồ sản xuất Ngọc trai, cây Sao Hà (Starnacle) và Liễu Bông (Petta Pouf), Cá Đuốc (Beakon) và Cá Phồng, San hô ống khói (Flue Coral) sản xuất oxy, và Cá Ngựa (Seaquine). Cá Ngựa có thể được vắt sữa tại Trạm vắt sữa thủy sinh (Aquatic Milking Station) để lấy Dầu Trứng (Ovolene), có thể chế biến thành Caviar để tăng Tinh thần.
+- **Rạn san hô (Reef)** — Có trai khổng lồ sản xuất Ngọc trai, cây Sao Hà (Starnacle) và Liễu Bông (Petta Pouf), Cá Đuốc (Beakon) và Cá Phồng, San hô ống khói (Flue Coral) sản xuất oxy, và Cá Ngựa (Seaquine). Cá Ngựa có thể được vắt sữa tại Trạm vắt sữa thủy sinh (Aquatic Milking Station) để lấy Dầu Trứng (Ovolene), có thể chế biến thành Trứng cá muối (Caviar) để tăng Tinh thần.
 - **Rừng tảo bẹ (Kelp Forest)** — Cây Tảo bẹ tháp (Tower Kelp) nuôi dưỡng sinh vật Rong Con (Kelpole) bé nhỏ — cả hai đều có thể thu hoạch lấy Nori, một nguyên liệu dùng tại Quầy Sushi (Sushi Bar) mới. Cua Quặng (Orehull) cũng sống ở đây, và có thể xén lông lấy Quặng sắt.
 - **Vực thẳm (Abyss)** — Chứa Mực Phát Quang (Glo Squid) cùng các cây bản địa kỳ lạ Rong Ống (Tublia), Túi Gai (Pinpoket) và Hoa Bóng Đèn (Bulbloom).
 
@@ -56,7 +56,7 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên suốt tiể
 - Thêm bong bóng đưa khí lên bề mặt chất lỏng trước khi vào mô phỏng.
 - Hình ảnh chất lỏng thay đổi: có nhiều kết cấu/màu sắc hơn, và vật thể bên trong chất lỏng dễ nhìn hơn.
 - **Công trình mới**:
-  - Đài phun sinh vật thủy sinh (Aquatic Critter Fountain)
+  - Đài nước cho thú thủy sinh (Aquatic Critter Fountain)
   - Điểm nhặt cá (Fish Pick-Up)
 - **Khác**:
   - Thêm Gioăng nhựa (Plastic Gasket) và công thức chế tạo. Hầu hết các công trình yêu cầu Nhựa làm vật liệu xây phụ giờ dùng Gioăng thay thế:
@@ -134,7 +134,7 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên suốt tiể
   - Tường kính nền (Glass Backwall)
   - Đèn trần kính (Glass Ceiling Light)
 - **Khác**:
-  - Caviar có thể dùng làm đồ trang trí trên bàn ăn thay thế cho Muối ăn (Table Salt).
+  - Trứng cá muối (Caviar) có thể dùng làm đồ trang trí trên bàn ăn thay thế cho Muối ăn (Table Salt).
   - Tường nền tự nhiên (natural backwall) — không độc quyền DLC này.
   - Nhiệm vụ Tìm Minnow (Finding Minnow imperative).
   - Cài đặt Scramble DLC mới cho quần xã và DLC mới.
@@ -142,7 +142,7 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên suốt tiể
   - Ủng cao su (Rubber Boots) — bảo vệ đệ khỏi Soggy Feet.
   - Đồ bơi (Swimwear) — thêm cách nhiệt và bảo vệ khỏi các hiệu ứng xấu khi ngập trong chất lỏng.
   - Thêm Gioăng cao su (Rubber Gasket) và công thức chế tạo — thay thế cho loại nhựa.
-  - Thêm công thức Dầu Trứng → Caviar vào Máy glean (Gleaner).
+  - Thêm công thức Dầu Trứng → Trứng cá muối (Caviar) vào Máy glean (Gleaner).
   - Thêm 2 bài nhạc mới vào game.
 - **Nguyên tố mới (không độc quyền DLC này)**:
   - Ngọc trai (Pearl)
@@ -182,38 +182,38 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên suốt tiể
 
 - Trứng từ mọi loài Pacu không còn rơi vỏ trứng (Eggshell).
 - Giảm khối lượng trứng Pacu và sản lượng kcal Trứng sống (Raw Egg).
-- Giảm lượng thức ăn Pokeshell và Sanishell cần mỗi ngày.
-- Tăng khối lượng Lột xác Pokeshell (Pokeshell Molt).
-- Tăng tỷ lệ chuyển đổi cát của Sanishell.
-- Sinh vật hoang dã giờ hiển thị Hạnh phúc (Happiness), Trao đổi chất (Metabolism), Nhiệt độ cơ thể (Body Temperature), Sinh sản (Reproduction), Nguồn cung Brackene, và Accu-moo-lation trong bảng Điều kiện (Condition Panel) của màn Hồ sơ (Details Screen).
-- Máy cho cá ăn (Fish Feeder) giờ kém hiệu quả hơn trong việc thuần hóa sinh vật (giảm Wildness).
-- Máy cho sinh vật ăn (Critter Feeder) giờ thuần hóa sinh vật hiệu quả ngang Máy cho cá ăn.
-- Ăn từ Máy cho cá ăn không còn cung cấp thưởng Hạnh phúc cho sinh vật.
+- Giảm lượng thức ăn Cua vôi (Pokeshell) và Cua thanh thủy (Sanishell) cần mỗi ngày.
+- Tăng khối lượng Lột xác Cua vôi (Pokeshell Molt).
+- Tăng tỷ lệ chuyển đổi cát của Cua thanh thủy (Sanishell).
+- Sinh vật hoang dã giờ hiển thị Hạnh phúc (Happiness), Trao đổi chất (Metabolism), Nhiệt độ cơ thể (Body Temperature), Sinh sản (Reproduction), Nguồn cung Brackene, và Tích-moo-lũy (Accu-moo-lation) trong bảng Điều kiện (Condition Panel) của màn Hồ sơ (Details Screen).
+- Máng thức ăn cho cá (Fish Feeder) giờ kém hiệu quả hơn trong việc thuần hóa sinh vật (giảm Wildness).
+- Máng thức ăn trên cạn (Critter Feeder) giờ thuần hóa sinh vật hiệu quả ngang Máng thức ăn cho cá.
+- Ăn từ Máng thức ăn cho cá không còn cung cấp thưởng Hạnh phúc cho sinh vật.
 - Tốc độ Sinh sản (Reproduction) của sinh vật đã Thuần hóa (Tame) và Hạnh phúc (Happy) giờ tỷ lệ thuận với mức độ hạnh phúc thực tế.
 - Ngưỡng cho trạng thái "Mood: Happy" đã được điều chỉnh xuống +1.
-- Pacu Treat cung cấp thưởng Hạnh phúc cho Pacu. Nhiều loại hạt giống có thể được chuyển đổi thành Pacu Treat tại Máy nhào vi sinh (Microbe Musher).
+- Pacu Treat cung cấp thưởng Hạnh phúc cho Pacu. Nhiều loại hạt giống có thể được chuyển đổi thành Pacu Treat tại Máy nghiền vi khuẩn (Microbe Musher).
 - Sinh vật không phải cá không còn tính cá vào tính toán quá tải (overcrowding).
 - Pacu Fillet giờ được đổi tên thành Fish Fillet (Phi lê cá), phản ánh chính xác hơn rằng nó có thể được sản xuất bởi sinh vật thủy sinh khác ngoài Pacu.
-- Bọ phát sáng (Shine Bugs) không hạnh phúc không còn phát ra ánh sáng.
+- Đom đóm (Shine Bugs) không hạnh phúc không còn phát ra ánh sáng.
 
 #### Thay đổi Máy hâm nóng (Tepidizer)
 
-- Tepidizer không còn có nhiệt độ chất lỏng tối đa.
-- Thêm "Turbo Mode" (Chế độ tăng tốc), cho phép Tepidizer hoạt động ở wattage cao hơn, tạo nhiều nhiệt hơn, và làm sôi một lượng nhỏ chất lỏng xung quanh. Thông tin trạng thái Sản lượng nhiệt và Yêu cầu năng lượng sẽ tự động điều chỉnh phản ánh chế độ turbo bật/tắt.
+- Máy hâm nóng không còn có nhiệt độ chất lỏng tối đa.
+- Thêm "Turbo Mode" (Chế độ tăng tốc), cho phép Máy hâm nóng hoạt động ở wattage cao hơn, tạo nhiều nhiệt hơn, và làm sôi một lượng nhỏ chất lỏng xung quanh. Thông tin trạng thái Sản lượng nhiệt và Yêu cầu năng lượng sẽ tự động điều chỉnh phản ánh chế độ turbo bật/tắt.
 
 #### Công trình (Buildings)
 
-- Thông tin trạng thái Sản lượng nhiệt và Yêu cầu năng lượng của Máy sưởi không gian (Space Heater) giờ điều chỉnh động để phản ánh wattage đang chọn trên thanh trượt Tiêu thụ năng lượng.
-- Thả cá (Fish Release) giờ có thể được đặt cách bề mặt chất lỏng vài ô và vẫn hoạt động. Sprite đã được cập nhật tương ứng.
-- Máy cho cá ăn (Fish Feeder) và Thả cá (Fish Release) không còn bị phá hủy bởi áp lực chất lỏng.
+- Thông tin trạng thái Sản lượng nhiệt và Yêu cầu năng lượng của Máy sưởi (Space Heater) giờ điều chỉnh động để phản ánh wattage đang chọn trên thanh trượt Tiêu thụ năng lượng.
+- Điểm thả cá (Fish Release) giờ có thể được đặt cách bề mặt chất lỏng vài ô và vẫn hoạt động. Sprite đã được cập nhật tương ứng.
+- Máng thức ăn cho cá (Fish Feeder) và Điểm thả cá (Fish Release) không còn bị phá hủy bởi áp lực chất lỏng.
 - Mucin có thể dùng thay Nước trong công thức Brackene tại Máy nghiền thực vật (Plant Pulverizer).
 - Mucin có thể dùng thay thế cho Nước trong công thức Mush Bar và Liceloaf.
-- Thêm Đá San Hô (Corallium) vào công thức Vôi (Lime) tại Máy nghiền đá (Rock Crusher).
-- Giảm đáng kể thời gian làm việc của Ghế biển (Beach Chair).
+- Thêm Đá San Hô (Corallium) vào công thức Vôi (Lime) tại Máy nghiền thủ công (Rock Crusher).
+- Giảm đáng kể thời gian làm việc của Ghế bãi biển (Beach Chair).
 - Hợp nhất hai hạng mục vật liệu xây "Transparent" (Trong suốt) và "Glass" (Kính) thành một hạng mục "Glassy" (Dạng kính). Vật liệu hợp lệ bao gồm: Kính, Kim cương, Ngọc trai, và Hổ phách. Nhựa thông rắn và Nhựa cây rắn không còn thuộc các hạng mục này nữa.
-- Xây Đài phun sinh vật (Critter Fountain) giờ yêu cầu Kính, ngoài yêu cầu Kim loại tinh chế thông thường.
+- Xây Đài nước cho thú (Critter Fountain) giờ yêu cầu Kính, ngoài yêu cầu Kim loại tinh chế thông thường.
 - Máy khử muối (Desalinator) giờ có thể xử lý Nước muối ô nhiễm (Polluted Brine) thành Nước ô nhiễm (Polluted Water).
-- Đổi tên Máy glean Brackwax (Brackwax Gleaner) thành Máy glean (Gleaner), để cho phép thực hiện thêm các chuyển đổi chất lỏng khác tại công trình này.
+- Đổi tên Máy trích sáp (Brackwax Gleaner) thành Máy glean (Gleaner), để cho phép thực hiện thêm các chuyển đổi chất lỏng khác tại công trình này.
 - Đổi tên Pháo đài nước (Water Fort) thành Chuồng sinh vật thủy sinh (Aquatic Critter Condo) để dễ tìm hơn trong menu xây dựng.
 
 #### UI/Database
@@ -223,7 +223,7 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên suốt tiể
 - Thêm SFX khi thanh tìm kiếm của Cơ sở dữ liệu, Nghiên cứu, và Menu xây dựng được tập trung.
 - Công cụ Đào (Dig Tool) giờ có hộp kiểm lọc để nhổ cây và đào tường nền tự nhiên.
 - Thêm hạng mục công trình mới "Submersible" (Chìm) cho các công trình có thể hoạt động trong chất lỏng mà không bị ngập.
-- Thêm thông tin lột xác liên quan đến tâm trạng vào mục cơ sở dữ liệu cho Oakshell và Ốc Lười (Slogo).
+- Thêm thông tin lột xác liên quan đến tâm trạng vào mục cơ sở dữ liệu cho Cua mộc (Oakshell) và Ốc Lười (Slogo).
 - Cải thiện hiển thị thông tin chuyển đổi nguyên tố cho các công trình chấp nhận nhiều hơn một loại đầu vào: Các tùy chọn đầu vào giờ được hiển thị dưới tiêu đề "Inputs" (Đầu vào) trong phần Requirements (Yêu cầu). Đầu ra được hiển thị dưới tiêu đề đầu vào của chúng trong phần Effects (Hiệu ứng).
 
 #### Khác
@@ -239,12 +239,12 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên suốt tiể
   - Không còn héo khi hoàn toàn ngập trong chất lỏng.
   - Tăng yêu cầu khối lượng tưới tiêu (Irrigation).
   - Nước, Nước muối (Salt Water), và Nước muối mặn (Brine) giờ đều là chất lỏng tưới hợp lệ.
-  - Chỉnh sửa nghệ thuật nhỏ.
+  - Chỉnh sửa sprite nhỏ.
 - **Âm thanh (Sounds)**:
   - Thêm âm thanh cho súng khai thác khi sử dụng dưới chất lỏng.
   - Nước ô nhiễm, Nước muối, và Nước muối mặn có âm thanh nền mới.
 - Công thức mở khóa qua POI (POI-unlocked) giờ có thể xuất hiện trong màn hình phụ của máy chế tạo, ngay cả khi tài nguyên yêu cầu chưa được khám phá.
-- Ô lưới (Mesh Tiles) trước đây chỉ cho ánh sáng mặt trời xuyên qua — giờ cũng cho ánh sáng từ các nguồn khác xuyên qua.
+- Gạch lưới (Mesh Tiles) trước đây chỉ cho ánh sáng mặt trời xuyên qua — giờ cũng cho ánh sáng từ các nguồn khác xuyên qua.
 - Đổi màu UI của Brackwax để giống với màu của vật phẩm nhặt được hơn.
 
 ### Spaced Out!
@@ -253,9 +253,9 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên suốt tiể
 
 ### Prehistoric Planet Pack
 
-- Jawbo giờ bị thu hút bởi mồi Bẫy cá (Fish Trap lures).
-- Trứng Jawbo giờ sản xuất 1kg Vỏ trứng khi bị đập, thay vì 2kg.
-- Phi lê Jawbo (Jawbo Fillet) cho hiệu ứng Kháng bức xạ (Radiation Resistance).
+- Cá hàm sắt (Jawbo) giờ bị thu hút bởi mồi Bẫy cá (Fish Trap lures).
+- Trứng Cá hàm sắt giờ sản xuất 1kg Vỏ trứng khi bị đập, thay vì 2kg.
+- Phi lê Cá hàm sắt (Jawbo Fillet) cho hiệu ứng Kháng bức xạ (Radiation Resistance).
 
 ---
 
@@ -267,13 +267,13 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên suốt tiể
 - Sửa lỗi đệ không bỏ chạy sau khi bị tấn công.
 - Cửa được lưu ở trạng thái mở hoặc đang mở sẽ đóng lại khi tải nếu được đặt thành Tự động (Auto). Cửa kín khí (Airlocks) giờ cập nhật nhiệt độ ở cuối hoạt ảnh mở, đồng bộ với thay đổi trạng thái mô phỏng.
 - Sửa lỗi tên file save dài trong ngôn ngữ đa byte không cho phép lưu thủ công.
-- Sửa lỗi khi đổ chai chất lỏng từ Máy đổ chai (Bottle Filler) đôi khi hiển thị màu chất lỏng không khớp với chất lỏng mà đệ đang cố nhặt.
-- Sửa lỗi hiển thị trên Máy đổ chai (Bottle Filler) nơi chai đệ nhặt không khớp với lượng chất lỏng chứa trong đó.
+- Sửa lỗi khi đổ chai chất lỏng từ Máy đóng chai (Bottle Filler) đôi khi hiển thị màu chất lỏng không khớp với chất lỏng mà đệ đang cố nhặt.
+- Sửa lỗi hiển thị trên Máy đóng chai (Bottle Filler) nơi chai đệ nhặt không khớp với lượng chất lỏng chứa trong đó.
 - Khi đệ Phục hồi hơi thở (Recover Breath), game giờ kiểm tra cả các ô lân cận có oxy, không chỉ ô đệ đang đứng.
 - Đệ phục hồi hơi thở khi đang trên thang giờ chạy hoạt ảnh đúng.
 - Sửa lỗi phản ứng (reactions) không chạy đúng.
 - Xóa dòng chữ "Copy of " trong tiêu đề lịch trình mặc định của màn Lịch trình (Schedule screen).
-- Luxury Barracks (Doanh trại sang trọng) giờ cung cấp +100% Stamina mỗi chu kỳ, giống Doanh trại (Barracks). Thêm thông tin Stamina vào tooltip overlay Phòng (Room).
+- Phòng ngủ sang chảnh (Luxury Barracks) giờ cung cấp +100% Stamina mỗi ngày, giống Khu ngủ chung (Barracks). Thêm thông tin Stamina vào tooltip overlay Phòng (Room).
 - **Worldgen**:
   - Sửa các thực thể lớn chồng lên nhau, như Bể chứa dầu (Oil Reservoirs) trong đặc điểm thế giới Trapped Oil và Deep Oil.
   - Sửa lỗi đặc điểm thế giới Boulders (Đá tảng), Geodes (Hốc đá quý), và Large Glacier (Sông băng lớn) được tạo không đúng. Điều này thay đổi nhẹ hạt giống worldgen với các đặc điểm đó, nhưng mạch phun hầu như không bị ảnh hưởng (ngoại lệ: Oil Reservoirs xuất hiện như một phần của đặc điểm Irregular Oil và Trapped Oil).
@@ -310,7 +310,7 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên suốt tiể
 ### The Prehistoric Planet Pack
 
 - Loại công việc của Máy xông khói (Smoker) giờ là Cook Supply (Tiếp tế nấu ăn).
-- Sửa Jawbo thiếu biểu tượng túi cá (fish bag symbol).
+- Sửa Cá hàm sắt (Jawbo) thiếu biểu tượng túi cá (fish bag symbol).
 
 ---
 
@@ -438,7 +438,7 @@ Không có đăng ký hay ghi danh để trở thành open tester. Nếu bạn s
 2. **Tên cây mới**: Sodicane → Mía Soda, Starnacle → Sao Hà (藤壶星), Petta Pouf → Liễu Bông (蓬茸柳), Tublia → Rong Ống, Pinpoket → Túi Gai, Bulbloom → Hoa Bóng Đèn (灯泡花), Clampum → Trai Kẹp, Husha Cups → Cốc Tĩnh (静杯花).
 3. **Tên nguyên tố mới**: Corallium → Đá San Hô, Coquina → Đá Vỏ Sò, Galena → Quặng Chì, Ovolene → Dầu Trứng.
 4. **Tên món ăn**: Edamame → Đậu Nành Non, Tobiko → Trứng Cá Chuồn, Nigiri → Cơm Nắm, Uni → Nhím Biển, Nori → Rong Nori, Calamari → Mực Chiên, Mussel Tongue → Lưỡi Trai.
-5. **Tên công trình**: Dịch mô tả chức năng, giữ cấu trúc nhất quán ("Trạm + chức năng + thủy sinh" cho các trạm chăm sóc).
-6. **Gameplay terms**: Ưu tiên dịch sang tiếng Việt dễ hiểu, trừ khi thuật ngữ tiếng Anh đã quen thuộc với cộng đồng (Stress, Buff, Nerf, CPR).
+5. **Tên công trình**: Dịch mô tả chức năng, giữ cấu trúc nhất quán ("Trạm + chức năng + thủy sinh" cho các trạm chăm sóc). **Gleaner** (đổi tên từ Brackwax Gleaner/Máy trích sáp) — tạm dùng "Máy glean", chờ bản dịch chính thức khi game ra.
+6. **Gameplay terms**: Ưu tiên dịch sang tiếng Việt dễ hiểu, trừ khi thuật ngữ tiếng Anh đã quen thuộc với cộng đồng (Stress, Buff, Nerf, CPR). **Caviar** → Trứng cá muối (tạm dịch, chờ bản dịch chính thức khi game ra).
 7. **Tên địa danh/vista**: Giữ nguyên + dịch (Beach vista → Khung cảnh Bãi biển).
 8. **Tên nhiệm vụ**: Finding Minnow → Tìm Minnow — Minnow là tên riêng.
