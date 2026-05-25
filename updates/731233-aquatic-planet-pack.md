@@ -8,17 +8,17 @@
 
 ## Thông tin cập nhật
 
-Xin chào các đệ,
+Chào các đệ,
 
-Đã đến lúc bắt đầu public testing cho DLC **The Aquatic Planet Pack**!
+Public testing cho DLC **The Aquatic Planet Pack** đã bắt đầu!
 
-DLC trả phí này đưa các đệ lao xuống một tiểu hành tinh hoàn toàn mới, ngập tràn quần xã sinh vật biển, sinh vật, cây trồng, công trình chăn nuôi và nguyên tố mới. Thêm vào đó, đệ giờ có thể học bơi!
+DLC mới này đưa các đệ đến một tiểu hành tinh hoàn toàn mới với đại dương bao la, quần xã sinh vật biển, sinh vật, cây trồng, công trình chăn nuôi và nguyên tố mới. Chưa kể, giờ đây đệ có thể học bơi!
 
-Bọn tôi đã hợp tác với Aki, modder kỳ cựu của ONI, trong một số phần của DLC này, điều này khiến nó trở nên đặc biệt hơn đối với tất cả chúng tôi.
+Chúng tôi đã hợp tác với Aki, một modder kỳ cựu của ONI, trong một số phần của DLC này, khiến nó càng trở nên đặc biệt.
 
-Hãy lao vào trên nhánh **public_testing** trên Steam — đợt testing miễn phí này mở cho bất kỳ ai sở hữu game gốc ở đó.
+Hãy tham gia vào nhánh **public_testing** trên Steam — bản dùng thử miễn phí dành cho bất kỳ ai sở hữu game gốc.
 
-Các mục mới và thay đổi được liệt kê dưới "All versions" trong patch notes tương thích với cả căn cứ cũ và mới, nhưng tốt nhất vẫn nên sao lưu save trước khi bắt đầu. Phòng khi có gì bất trắc!
+Các mục mới và thay đổi trong mục "All versions" của patch notes đều tương thích với căn cứ cũ lẫn mới, nhưng sao lưu save trước khi bắt đầu vẫn là ý hay. Phòng hờ vẫn hơn!
 
 ---
 
@@ -325,7 +325,7 @@ Cũng có các ô tường nền tự nhiên có thể đào xuyên khắp tiể
 
 ## Public Testing là gì?
 
-"Public testing" có nghĩa là người chơi được dùng thử nội dung mới sớm và gửi phản hồi cùng đề xuất trước khi nó ra mắt chính thức. Vì đây là phiên bản chưa hoàn thiện và đang trong quá trình phát triển tích cực, khả năng cao bạn sẽ gặp bug, crash hoặc vấn đề cân bằng khi chơi các bản dựng này. Bọn tôi sẽ cố gắng sửa mọi vấn đề phát sinh nhanh nhất có thể, nhưng có thể bạn sẽ mất tiến trình chơi game khi chơi trên nhánh Testing.
+"Public testing" có nghĩa là người chơi được dùng thử nội dung mới sớm và gửi phản hồi cùng đề xuất trước khi nó ra mắt chính thức. Vì đây là phiên bản chưa hoàn thiện và đang trong quá trình phát triển tích cực, khả năng cao bạn sẽ gặp bug, crash hoặc vấn đề cân bằng khi chơi các bản dựng này. Chúng tôi sẽ cố gắng sửa mọi vấn đề phát sinh nhanh nhất có thể, nhưng có thể bạn sẽ mất tiến trình chơi game khi chơi trên nhánh Testing.
 
 Về hiệu suất, nhánh Testing có thêm các công cụ gỡ lỗi để giúp chúng tôi truy tìm crash. Điều này làm game chạy chậm hơn so với phiên bản live của game.
 
