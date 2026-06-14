@@ -27,7 +27,7 @@
 | Lumb             | Đạp túc long       | 叶块兽         | 블럼 럼브       | Водревун             | Diệp Khối Thú         | Dậm chân rụng trái                         |
 | Mimika           | Mimika             | 拟蛾           | 미미카          | Мимик                | Nghĩ Nga               | Bay, thụ phấn, khô thành hạt               |
 | Rhex             | Tấn mãnh long      | 霸王鹦         | 레크스          | Хрекс                | Bá Vương Anh           | Ăn thịt sinh vật khác                      |
-| Dartle           | Dật tích           | 逸蜥           | 다틀            | Вжупаха              | Dật Tích               | Ăn Dewdrip thải Bleach Stone/Chlorine       |
+| Dartle           | Cự lãn long        | 逸蜥           | 다틀            | Вжупаха              | Cự Lãn Long            | Ăn Dewdrip thải Bleach Stone/Chlorine       |
 | Jawbo            | Cá hàm sắt        | 颚鱼           | 죠보            | Челюла               | Ngạc Ngư               | Ăn Pacu, thải Rust                          |
 | Jawbo Fry        | Cá hàm sắt nhí    | —              | —              | —                    | —                       |                                             |
 | Jawbo Egg        | Trứng cá hàm sắt  | —              | —              | —                    | —                       |                                             |
