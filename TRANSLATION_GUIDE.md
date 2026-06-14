@@ -23,7 +23,7 @@ Cập nhật: 2026-04-30
 | Morb             | Dịch trùng         | 疫病章鱼       |                |                      | Dịch Bệnh Chương Ngư   | Sinh từ nhà xí, tạo khí thối               |
 | Shine Bug        | Đom đóm            | 发光虫         | 빛벌레          | Блестячок            | Phát Quang Trùng       | Bay, phát sáng                              |
 | Pip              | Pip                | 树鼠           | 잎람쥐          | Цвирк               | Thụ Thử                | Trồng hạt vào đất                          |
-| Drecko           | Tắc Kè Lông Xù    | 毛鳞壁虎       | 기끌이          | Дреккон              | Mao Lân Bích Hổ        | Glossy Drecko = Tắc Kè Lông Bóng           |
+| Drecko           | Tắc kè lông xù    | 毛鳞壁虎       | 기끌이          | Дреккон              | Mao Lân Bích Hổ        | Glossy Drecko = Tắc kè lông bóng           |
 | Pokeshell        | Cua vôi            | 抛壳蟹         | 쑤심딱지        | Крабушек             | Phao Xác Giải          | Ăn rác, lột vỏ lấy vôi                     |
 | Puft             | Puft               | 喷浮飞鱼       | 헐떡이          | Пуфф                 | Phún Phù Phi Ngư       | Bay, hút khí thải slime                     |
 | Pacu             | Pacu               | 帕库鱼         | 드럽치          | Паку                 | Phách Khố Ngư          | Giữ nguyên (tên cá thật)                    |
@@ -31,16 +31,16 @@ Cập nhật: 2026-04-30
 | Shove Vole       | Chuột máy khoan    | 锹环田鼠       | 굴착들쥐        | Полевка-копалка      | Tiêu Hoàn Điền Thử    | Đào regolith                                |
 | Gassy Moo        | Bò bay             | 释气海牛       | 가스질 음메      | Газовая му-му        | Thích Khí Hải Ngưu     | Xì Natural Gas                              |
 | Plug Slug        | Sên điện           | 电弧蛞蝓       | 플러그팽        | Розеточный слизень   | Điện Hồ Hoạt Dụ       | Treo trần, cấp điện                         |
-| Sweetle          | Điềm Trùng         | 甜素甲虫       | 단벌레          | Сахажук              | Điềm Tố Giáp Trùng    | Ăn/thải đường                               |
-| Grubgrub         | Long Trùng         | 虫果果虫       | 벵이벵이        | Личинус              | Trùng Quả Quả Trùng   | Chà vào cây tăng trưởng                    |
+| Sweetle          | Điềm trùng         | 甜素甲虫       | 단벌레          | Сахажук              | Điềm Tố Giáp Trùng    | Ăn/thải đường                               |
+| Grubgrub         | Long trùng         | 虫果果虫       | 벵이벵이        | Личинус              | Trùng Quả Quả Trùng   | Chà vào cây tăng trưởng                    |
 | Beeta            | Ong phóng xạ       | 辐射蜂         | 벌타            | Бета                 | Phức Xạ Phong          | Hostile, thu uranium                         |
-| Bammoth          | Nhung Mã Thố       | 绒犸兔         | 밤모스          | Крольмонт            | Nhung Mã Thố           | Cắt lông lấy sợi                           |
-| Flox             | Hồ Lộc             | 狐鹿           | 플록스          | Лисень               | Hồ Lộc                 | Cắt sừng lấy gỗ/thủy tinh                  |
+| Bammoth          | Nhung mã thố       | 绒犸兔         | 밤모스          | Крольмонт            | Nhung Mã Thố           | Cắt lông lấy sợi                           |
+| Flox             | Hồ lộc             | 狐鹿           | 플록스          | Лисень               | Hồ Lộc                 | Cắt sừng lấy gỗ/thủy tinh                  |
 | Spigot Seal      | Hải cẩu ủ rượu    | 栓角海豹       | 스피곳물범      | Рогатый тюлень       | Suyên Giác Hải Báo     | Ăn đường tạo ethanol                        |
-| Lumb             | Đạp Túc Long       | 叶块兽         | 블럼 럼브       | Водревун             | Diệp Khối Thú         | Dậm chân rụng trái                         |
+| Lumb             | Đạp túc long       | 叶块兽         | 블럼 럼브       | Водревун             | Diệp Khối Thú         | Dậm chân rụng trái                         |
 | Mimika           | Mimika             | 拟蛾           | 미미카          | Мимик                | Nghĩ Nga               | Bay, thụ phấn, khô thành hạt               |
-| Rhex             | Tấn Mãnh Long      | 霸王鹦         | 레크스          | Хрекс                | Bá Vương Anh           | Ăn thịt sinh vật khác                      |
-| Dartle           | Dật Tích           | 逸蜥           | 다틀            | Вжупаха              | Dật Tích               | Ăn Dewdrip thải Bleach Stone/Chlorine       |
+| Rhex             | Tấn mãnh long      | 霸王鹦         | 레크스          | Хрекс                | Bá Vương Anh           | Ăn thịt sinh vật khác                      |
+| Dartle           | Dật tích           | 逸蜥           | 다틀            | Вжупаха              | Dật Tích               | Ăn Dewdrip thải Bleach Stone/Chlorine       |
 | Jawbo            | Cá hàm sắt        | 颚鱼           | 죠보            | Челюла               | Ngạc Ngư               | Ăn Pacu, thải Rust                          |
 | Jawbo Fry        | Cá hàm sắt nhí    | —              | —              | —                    | —                       |                                             |
 | Jawbo Egg        | Trứng cá hàm sắt  | —              | —              | —                    | —                       |                                             |
