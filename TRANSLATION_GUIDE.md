@@ -13,36 +13,53 @@ Cập nhật: 2026-04-30
 
 ### Nhân vật & Sinh vật
 
-| English          | Tiếng Việt         | 中文           | Hán Việt                | EN Description                              | Ghi chú                                    |
-|------------------|--------------------|----------------|-------------------------|---------------------------------------------|--------------------------------------------|
-| Duplicant        | đệ / thằng đệ     |                |                         |                                             | Không viết hoa, trừ đầu câu                |
-| Dupe             | đệ                 |                |                         |                                             | Viết tắt của Duplicant                      |
-| Colony           | Thuộc địa          |                |                         |                                             |                                             |
-| Critter          | Sinh vật           |                |                         |                                             | Hoặc "Động vật" tùy ngữ cảnh               |
-| Hatch            | Dế than             | 哈奇           | —                       | Chitinous, nocturnal, eats minerals/rocks   | Vỏ kitin, đào hang, ăn đá/quặng, bài tiết than. Biến thể: Dế cẩm thạch (Stone), Dế giả kim (Smooth), Dế thần rừng (Sage) |
-| Morb             | Dịch trùng         | 疫病章鱼       | Dịch Bệnh Chương Ngư   | Plague octopus, spawns from outhouses       | Sinh từ nhà xí, tạo khí thối               |
-| Shine Bug        | Đom đóm            | 发光虫         | Phát Quang Trùng       | Glowing flying bug                          | Bay, phát sáng                              |
-| Pip              | Pip                | 树鼠           | Thụ Thử                | Tree mouse, plants seeds in soil            | Trồng hạt vào đất                          |
-| Drecko           | Tắc Kè Lông Xù    | 毛鳞壁虎       | Mao Lân Bích Hổ        | Furry-scaled wall gecko, reptilian          | Bò tường, có vảy/lông. Glossy Drecko = Tắc Kè Lông Bóng |
-| Pokeshell        | Cua vôi            | 抛壳蟹         | Phao Xác Giải          | Shell-throwing crab, eats polluted dirt     | Ăn rác, lột vỏ lấy vôi                     |
-| Puft             | Puft               | 喷浮飞鱼       | Phún Phù Phi Ngư       | Spray-float flying fish, inhales gases      | Bay, hút khí thải slime                     |
-| Pacu             | Pacu               | 帕库鱼         | Phách Khố Ngư          | Phonetic + fish                             | Giữ nguyên (tên cá thật)                    |
-| Slickster        | Sứa cạn            | 油滑虫         | Du Hoạt Trùng          | Oily slick bug, eats CO2 excretes oil       | Bay sát đất, ăn CO2 thải dầu               |
-| Shove Vole       | Chuột máy khoan    | 锹环田鼠       | Tiêu Hoàn Điền Thử    | Shovel ring field mouse, digs regolith      | Đào regolith                                |
-| Gassy Moo        | Bò bay              | 释气海牛       | Thích Khí Hải Ngưu     | Gas-releasing sea cow                       | Xì Natural Gas                              |
-| Plug Slug        | Sên điện           | 电弧蛞蝓       | Điện Hồ Hoạt Dụ       | Electric arc slug, clings to ceiling        | Treo trần, cấp điện                         |
-| Sweetle          | Điềm Trùng         | 甜虫           | Điềm Trùng             | Sweet bug, eats/excretes sucrose            | Ăn/thải đường                               |
-| Grubgrub         | Long Trùng            | 虫果果虫       | Trùng Quả Quả Trùng   | Bug-fruit-fruit-bug, rubs plants            | Chà vào cây tăng trưởng                    |
-| Beeta            | Ong cánh cứng      | 辐射蜂         | Phức Xạ Phong          | Radiation bee, hostile, collects uranium     | Hostile, thu uranium                         |
-| Bammoth          | Nhung Mã Thố       | 绒犸兔         | Nhung Mã Thố           | Woolly mammoth rabbit, shearable fiber      | Cắt lông lấy sợi                           |
-| Flox             | Hồ Lộc             | 狐鹿           | Hồ Lộc                 | Fox-deer, shearable antlers for wood/glass  | Cắt sừng lấy gỗ/thủy tinh                  |
-| Spigot Seal      | Hải cẩu nấu rượu   | 栓角海豹       | Suyên Giác Hải Báo     | Spigot-horn seal, eats sugar makes ethanol  | Ăn đường tạo ethanol                        |
-| Lumb             | Đạp Túc Long        | 踏足龙         | Đạp Túc Long           | Stomping dragon, stomps to shake fruit      | Dậm chân rụng trái                         |
-| Mimika           | Mimika             | 拟蛾           | Nghĩ Nga               | Mimic moth, pollinates plants, dries to seed| Bay, thụ phấn, khô thành hạt               |
-| Rhex             | Tấn Mãnh Long       | 迅猛龙         | Tấn Mãnh Long          | Velociraptor, hunts other critters          | Ăn thịt sinh vật khác                      |
-| Dartle           | Dật Tích            | 逸蜥           | Dật Tích               | Escaping lizard, eats dewdrips              | Ăn Dewdrip thải Bleach Stone/Chlorine       |
-| Jawbo            | Cá hàm sắt         | 铁颚鱼         | Thiết Ngạc Ngư         | Iron-jaw fish, eats Pacu, excretes rust     | Ăn Pacu, thải Rust                          |
-| Gnit             | Muỗi vằn           | 蚋             | Nhuế                   | Gnat, flying insect, stings dupes/critters  | Côn trùng bay, đốt đệ và sinh vật          |
+| English          | Tiếng Việt         | 中文           | 한국어          | Русский              | Hán Việt                | Ghi chú                                    |
+|------------------|--------------------|----------------|----------------|----------------------|-------------------------|--------------------------------------------|
+| Duplicant        | đệ / thằng đệ     |                |                |                      |                         | Không viết hoa, trừ đầu câu                |
+| Dupe             | đệ                 |                |                |                      |                         | Viết tắt của Duplicant                      |
+| Colony           | Thuộc địa          |                |                |                      |                         |                                             |
+| Critter          | Sinh vật           |                |                |                      |                         | Hoặc "Động vật" tùy ngữ cảnh               |
+| Hatch            | Dế than            | 哈奇           | 주둥가리        | Копатель             | —                       | Biến thể: Dế cẩm thạch (Stone), Dế giả kim (Smooth), Dế thần rừng (Sage) |
+| Morb             | Dịch trùng         | 疫病章鱼       |                |                      | Dịch Bệnh Chương Ngư   | Sinh từ nhà xí, tạo khí thối               |
+| Shine Bug        | Đom đóm            | 发光虫         | 빛벌레          | Блестячок            | Phát Quang Trùng       | Bay, phát sáng                              |
+| Pip              | Pip                | 树鼠           | 잎람쥐          | Цвирк               | Thụ Thử                | Trồng hạt vào đất                          |
+| Drecko           | Tắc Kè Lông Xù    | 毛鳞壁虎       | 기끌이          | Дреккон              | Mao Lân Bích Hổ        | Glossy Drecko = Tắc Kè Lông Bóng           |
+| Pokeshell        | Cua vôi            | 抛壳蟹         | 쑤심딱지        | Крабушек             | Phao Xác Giải          | Ăn rác, lột vỏ lấy vôi                     |
+| Puft             | Puft               | 喷浮飞鱼       | 헐떡이          | Пуфф                 | Phún Phù Phi Ngư       | Bay, hút khí thải slime                     |
+| Pacu             | Pacu               | 帕库鱼         | 드럽치          | Паку                 | Phách Khố Ngư          | Giữ nguyên (tên cá thật)                    |
+| Slickster        | Sứa cạn            | 油滑虫         | 미끌이          | Скользец             | Du Hoạt Trùng          | Bay sát đất, ăn CO2 thải dầu               |
+| Shove Vole       | Chuột máy khoan    | 锹环田鼠       | 굴착들쥐        | Полевка-копалка      | Tiêu Hoàn Điền Thử    | Đào regolith                                |
+| Gassy Moo        | Bò bay             | 释气海牛       | 가스질 음메      | Газовая му-му        | Thích Khí Hải Ngưu     | Xì Natural Gas                              |
+| Plug Slug        | Sên điện           | 电弧蛞蝓       | 플러그팽        | Розеточный слизень   | Điện Hồ Hoạt Dụ       | Treo trần, cấp điện                         |
+| Sweetle          | Điềm Trùng         | 甜素甲虫       | 단벌레          | Сахажук              | Điềm Tố Giáp Trùng    | Ăn/thải đường                               |
+| Grubgrub         | Long Trùng         | 虫果果虫       | 벵이벵이        | Личинус              | Trùng Quả Quả Trùng   | Chà vào cây tăng trưởng                    |
+| Beeta            | Ong phóng xạ       | 辐射蜂         | 벌타            | Бета                 | Phức Xạ Phong          | Hostile, thu uranium                         |
+| Bammoth          | Nhung Mã Thố       | 绒犸兔         | 밤모스          | Крольмонт            | Nhung Mã Thố           | Cắt lông lấy sợi                           |
+| Flox             | Hồ Lộc             | 狐鹿           | 플록스          | Лисень               | Hồ Lộc                 | Cắt sừng lấy gỗ/thủy tinh                  |
+| Spigot Seal      | Hải cẩu ủ rượu    | 栓角海豹       | 스피곳물범      | Рогатый тюлень       | Suyên Giác Hải Báo     | Ăn đường tạo ethanol                        |
+| Lumb             | Đạp Túc Long       | 叶块兽         | 블럼 럼브       | Водревун             | Diệp Khối Thú         | Dậm chân rụng trái                         |
+| Mimika           | Mimika             | 拟蛾           | 미미카          | Мимик                | Nghĩ Nga               | Bay, thụ phấn, khô thành hạt               |
+| Rhex             | Tấn Mãnh Long      | 霸王鹦         | 레크스          | Хрекс                | Bá Vương Anh           | Ăn thịt sinh vật khác                      |
+| Dartle           | Dật Tích           | 逸蜥           | 다틀            | Вжупаха              | Dật Tích               | Ăn Dewdrip thải Bleach Stone/Chlorine       |
+| Jawbo            | Cá hàm sắt        | 颚鱼           | 죠보            | Челюла               | Ngạc Ngư               | Ăn Pacu, thải Rust                          |
+| Jawbo Fry        | Cá hàm sắt nhí    | —              | —              | —                    | —                       |                                             |
+| Jawbo Egg        | Trứng cá hàm sắt  | —              | —              | —                    | —                       |                                             |
+| Gulp Fish        | Pacu đại khẩu     | 大嘴鱼         | 꿀꺽물고기      | Бульк-рыба           | Đại Chủy Ngư           | Biến thể Pacu, lọc nước bẩn                |
+| Gulp Fry         | Pacu đại khẩu nhí | —              | —              | —                    | —                       |                                             |
+| Gulp Fish Egg    | Trứng Pacu đại khẩu| —             | —              | —                    | —                       |                                             |
+| Tropical Pacu    | Pacu nhiệt đới    | 热带帕库鱼     | 열대 드럽치     | Тропическая паку     | Nhiệt Đới Phách Khố Ngư|Biến thể Pacu, trang trí cao               |
+| Tropical Fry     | Pacu nhiệt đới nhí| —              | —              | —                    | —                       |                                             |
+| Tropical Pacu Egg| Trứng Pacu nhiệt đới| —            | —              | —                    | —                       |                                             |
+| Beakon           | Cá đuốc           | 灯喙鱼         | 비콘            | Маячок               | Đăng Trủy Ngư          | Cá vẹt phát sáng, thải Phosphorite         |
+| Beakon Fry       | Cá đuốc con       | —              | —              | —                    | —                       |                                             |
+| Beakon Egg       | Trứng cá đuốc     | —              | —              | —                    | —                       |                                             |
+| Blowter          | Cá phồng          | 鼓气鱼         | 블로우터        | Раздувалтус          | Cổ Khí Ngư             | Cá phồng, tạo Oxy                          |
+| Blowter Fry      | Cá phồng con      | —              | —              | —                    | —                       |                                             |
+| Blowter Egg      | Trứng cá phồng    | —              | —              | —                    | —                       |                                             |
+| Glo Squid        | Mực phát quang    | 彩斑鱿         | 발광징어        | Светокальмар         | Thái Ban Vưu           | Mực phát sáng, tạo mực                     |
+| Glo Squid Larva  | Ấu trùng mực phát quang | —       | —              | —                    | —                       |                                             |
+| Glo Squid Egg    | Trứng mực phát quang| —            | —              | —                    | —                       |                                             |
+| Gnit             | Muỗi vằn          | 蚋             |                |                      | Nhuế                   | Côn trùng bay, đốt đệ và sinh vật          |
 
 ### Thực vật
 
