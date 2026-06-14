@@ -63,56 +63,60 @@ Cập nhật: 2026-04-30
 
 ### Thực vật
 
-| English              | Tiếng Việt         | 中文             | Hán Việt              | EN Description                                | Ghi chú                                    |
-|----------------------|--------------------|------------------|-----------------------|-----------------------------------------------|--------------------------------------------|
-| Mealwood             | Cây mộc trùng      | 米虱木           | Mễ Sắt Mộc           | Basic food plant, produces Meal Lice          | Cây thức ăn cơ bản                         |
-| Dusk Cap             | Cây nấm             | 夜幕菇           | Dạ Mạc Cô            | Mushroom, grows in CO2, dark                  | Nấm, mọc trong CO2, tối                   |
-| Bristle Blossom      | Hoa tóc xù          | 毛刺花           | Mao Thích Hoa         | Prickly flower, needs light                   | Cần ánh sáng                               |
-| Sleet Wheat          | Lúa mì              | 冰霜小麦         | Băng Sương Tiểu Mạch  | Cold climate wheat                            | Lúa mì lạnh                               |
-| Waterweed            | Thủy Thảo         | 水草             | Thủy Thảo             | Aquatic plant, produces Lettuce               | Cây thủy sinh                              |
-| Pincha Pepper        | Hỏa Tiêu       | 火椒藤           | Hỏa Tiêu Đằng        | Hot pepper vine                               |                                            |
-| Nosh Sprout          | Cây đậu              | 小吃芽           | Tiểu Ngật Nha         | Cold bean plant                               | Cây đậu lạnh                               |
-| Bog Bucket           | Cây xô               | 沼浆笼           | Chiểu Tương Lung      | Swamp plant, dark, produces jelly             | SWAMPHARVESTPLANT trong .po                |
-| Grubfruit Plant      | Trùng thụ            | 虫果芽           | Trùng Quả Nha         | Grub fruit plant, needs sulfur                | Spindly = Trùng thụ còi                    |
-| Saturn Critter Trap  | Cây ăn thịt thổ tinh  | 土星动物捕草     | Thổ Tinh Động Vật Bộ Thảo | Carnivorous plant, eats critters         | Cây ăn thịt                                |
-| Hexalent             | Lục Giác Căn         | 六角根           | Lục Giác Căn          | Single harvest, calorie dense                 |                                            |
-| Swamp Chard          | Cải bùn              | 沼泽甜菜         | Chiểu Trạch Điềm Thái | Single harvest swamp plant                   | Thu hoạch 1 lần                            |
-| Pikeapple Bush       | Bụi táo gai          | 刺壳果灌木       | Thích Xác Quả Quán Mộc | Cold fruit bush                             | Tên từ biome desc                          |
-| Plume Squash Plant   | Cây bí lông vũ       | 羽叶果薯植株     | Vũ Diệp Quả Thự Thực Châu | Feathery tuber plant                    | Cây củ lông vũ                             |
-| Sweatcorn Stalk      | Ngô Ngọt Sương       | 汗甜玉米秆       | Hãn Điềm Ngọc Mễ Can  | Sweaty corn stalk                            |                                            |
-| Megafrond            | Dương xỉ khổng lồ    | 巨蕨             | Cự Quyết              | Ancient giant fern, produces grain            | Dương xỉ cổ đại                            |
-| Ovagro Node          | Thân Mạn Thực        | 漫殖藤           | Mạn Thực Đằng         | Vine mother, extends vines                    | Vine = Dây Mạn Thực                        |
-| Mimika Bud           | Nụ Mimika            | 拟芽             | Nghĩ Nha              | Produces Mimikas                              | Tạo ra Mimika                              |
-| Snactus              | Khuẩn Ban Căn        | 菌斑根           | Khuẩn Ban Căn         | Cactus snack, single harvest                  |                                            |
-| Sherberry Plant      | Cây Dâu Tuyết        | 雪莓藤           | Tuyết Mai Đằng        | Single harvest cold berry                     | Quả = Quả Sherberry                        |
-| Bluff Briar          | Cây thạch nam        | 诱人荆棘         | Dụ Nhân Kinh Cức      | Decorative thorny plant                       | PRICKLEGRASS trong .po                     |
-| Buddy Bud            | Cây bằng hữu         | 同伴芽           | Đồng Bạn Nha          | Decorative, emits floral scent                | Trang trí, tỏa hương                       |
-| Mirth Leaf           | Du Thảo              | 欢乐叶           | Hoan Lạc Diệp         | Decorative leaf plant                         | Thống nhất dùng Du Thảo                    |
-| Jumping Joya         | Tước Dược Chưởng     | 雀跃掌           | Tước Dược Chưởng      | Decorative cactus, wide temp range            |                                            |
-| Sporechid            | Bào Tử Lan           | 孢子兰           | Bào Tử Lan            | Decorative but emits Zombie Spores            |                                            |
-| Ring Rosebush        | Hoàn Mai Hoa          | 环玫花           | Hoàn Mai Hoa          | Decorative rosebush                           |                                            |
-| Bliss Burst          | Gai Hoan Hỉ          | 极乐刺           | Cực Lạc Thích         | Decorative spiky plant                        | Không có trong file .po                    |
-| Mellow Mallow        | Nấm Nhung Mềm        | 锦醇菇           | Cẩm Thuần Cô          | Decorative mushroom                           | Không có trong file .po                    |
-| Tranquil Toes        | Cỏ Chân Tĩnh         | 安宁芷           | An Ninh Chỉ           | Decorative cold plant                         | Không có trong file .po                    |
-| Idylla Flower        | Hoa Băng Tĩnh        | 恬静花           | Điềm Tĩnh Hoa        | Decorative cold flower                        |                                            |
-| Thimble Reed         | Cây lau              | 顶针芦苇         | Đính Châm Lô Vi       | Produces Reed Fiber for clothing              | Sợi lau, làm quần áo                      |
-| Dasha Saltvine       | Sa Diêm Đằng         | 沙盐藤           | Sa Diêm Đằng          | Produces Salt, absorbs Chlorine               |                                            |
-| Arbor Tree           | Cây thông            | 乔木树           | Kiều Mộc Thụ          | Large tree, produces Wood                     | Cây lớn, tạo gỗ                           |
-| Gas Grass            | Thích Khí Thảo       | 释气草           | Thích Khí Thảo        | Alien grass, eaten by Moos                    |                                            |
-| Oxyfern              | Dương xỉ             | 氧齿蕨           | Dưỡng Xỉ Quyết       | Absorbs CO2, releases O2                      | Hút CO2, thải O2                           |
-| Wheezewort           | Cây hàn tức          | 冰息萝卜         | Băng Tức La Bặc       | Cooling plant                                 | Cây làm lạnh                               |
-| Balm Lily            | Hoa loa kèn          | 芳香百合         | Phương Hương Bách Hợp | Produces Balm Lily Flower                     | Hoa thơm                                   |
-| Alveo Vera           | Tuyết Tức Hoa         | 气囊芦荟         | Khí Nang Lô Hội       | Produces Oxylite from CO2 + Ice               | Hoa hơi thở tuyết                          |
-| Bonbon Tree          | Cây Kẹo Mật          | 糖心树           | Đường Tâm Thụ         | Cold tree, produces Nectar + Wood             |                                            |
-| Lura Plant           | Lộ Nhĩ Hoa           | 露饵花           | Lộ Nhĩ Hoa            | Carnivorous, traps flying critters            |                                            |
-| Seakomb              | Rong Lược Biển       | 海梳蕨           | Hải Sơ Quyết          | Aquatic plant, produces Seakomb Leaf          |                                            |
-| Dew Dripper          | Hoa Sương Tím         | 露珠藤           | Lộ Châu Đằng          | Produces Dewdrips → Brackene                  | Hoa tím nhỏ sương                          |
-| Buried Muckroot      | Củ Bùn Chôn          | 掩埋的淤泥根     | Yên Mai Ứ Nê Căn     | Starter forage, edible tuber                  | Đào từ đất, ăn được                        |
-| Hydrocactus          | Tiên Thủy Chưởng     | 仙水掌           | Tiên Thủy Chưởng     | Water-filtering cactus                        | Xương rồng lọc nước                        |
-| Avari Vine           | Tham Đằng             | —                | Tham Đằng             | Fast-growing subterranean vine                | Dây leo mọc nhanh dưới đất                 |
-| Fervine              | Nhiệt Đằng            | —                | Nhiệt Đằng            | Heat-reactive subterranean plant              | Củ = Củ Nhiệt Đằng                        |
-| Palmera Tree         | Cây Cọ Clo            | —                | —                     | Large chlorine-dwelling tree, emits Hydrogen  | Cây cọ sống trong khí Clo                  |
-| Experiment 52B       | Thí Nghiệm Thể 52B   | 试验体52B        | Thí Nghiệm Thể 52B   | Special sap-producing tree                    | Cây đặc biệt, tiết nhựa                   |
+| English | Tiếng Việt | 中文 | 한국어 | Русский | Hán Việt | Ghi chú |
+|---------|-----------|------|--------|---------|----------|---------|
+| Mealwood | Cây mộc trùng | 米虱木 | 끼니나무 | Пищевое дерево | Mễ Sắt Mộc | Cây thức ăn cơ bản |
+| Dusk Cap | Cây nấm | 夜幕菇 | 어스름갓 | Сумерянка | Dạ Mạc Cô | Nấm, mọc trong CO2, tối |
+| Bristle Blossom | Hoa tóc xù | 毛刺花 | — | — | Mao Thích Hoa | Cần ánh sáng |
+| Sleet Wheat | Lúa mì | 冰霜小麦 | 진눈깨비밀 | Морозная пшеница | Băng Sương Tiểu Mạch | Lúa mì lạnh |
+| Waterweed | Thủy thảo | 水草 | 물이파리 | Водяной сорняк | Thủy Thảo | Cây thủy sinh |
+| Pincha Pepperplant | Hỏa tiêu | 火椒藤 | 꼬집후추풀 | Колючий перцовый орешник | Hỏa Tiêu Đằng | Tiêu cay |
+| Nosh Sprout | Cây đậu | 小吃芽 | 오물오물 싹 | Закусочный росток | Tiểu Ngật Nha | Cây đậu lạnh |
+| Bog Bucket | Cây xô | 沼浆笼 | 수렁박 | Болотник | Chiểu Tương Lung | Swamp, tối, tạo jelly |
+| Grubfruit Plant | Trùng thụ | 虫果芽 | 벵이과실 식물 | Растение личинкокоса | Trùng Quả Nha | Spindly = Trùng thụ còi |
+| Saturn Critter Trap | Cây ăn thịt thổ tinh | 土星动物捕草 | 새턴 크리터 트랩 | Сатурновая существоловка | Thổ Tinh Động Vật Bộ Thảo | Cây ăn thịt |
+| Hexalent | Lục giác căn | 六角根 | 헥사렌트 | Гексалент | Lục Giác Căn | Thu hoạch 1 lần |
+| Pikeapple Bush | Bụi táo gai | 刺壳果灌木 | 파이크애플 덤불 | Шиплоневый куст | Thích Xác Quả Quán Mộc | Quả lạnh |
+| Plume Squash Plant | Cây bí lông vũ | 羽叶果薯植株 | 플룸 스쿼시 식물 | Перьевая тыква | Vũ Diệp Quả Thự Thực Châu | Cây củ lông vũ |
+| Sweatcorn Stalk | Cây ngô ngọt sương | 汗甜玉米秆 | 땀옥수수 줄기 | Стебель соленой кукурузы | Hãn Điềm Ngọc Mễ Can | |
+| Megafrond | Dương xỉ khổng lồ | 巨蕨 | 메가프론드 | Мегавайя | Cự Quyết | Dương xỉ cổ đại |
+| Mimika Bud | Nụ Mimika | 拟芽 | 미미카 봉오리 | Бутон-мимик | Nghĩ Nha | Tạo ra Mimika |
+| Snactus | Khuẩn ban căn | 菌斑根 | 스낵트 | Хрумктус | Khuẩn Ban Căn | Thu hoạch 1 lần |
+| Sherberry Plant | Cây dâu tuyết | 雪莓藤 | 셔베리 식물 | Льдягодное растение | Tuyết Mai Đằng | Quả = Quả Sherberry |
+| Buried Muckroot | Củ bùn chôn | 掩埋的淤泥根 | 묻힌 진창뿌리 | Грязекорень в земле | Yên Mai Ứ Nê Căn | Đào từ đất, ăn được |
+| Bluff Briar | Cây thạch nam | 诱人荆棘 | — | — | Dụ Nhân Kinh Cức | Trang trí, có gai |
+| Buddy Bud | Cây bằng hữu | 同伴芽 | 친구눈 | Дружок | Đồng Bạn Nha | Trang trí, tỏa hương |
+| Mirth Leaf | Du thảo | 欢乐叶 | 환희잎 | Веселист | Hoan Lạc Diệp | Trang trí |
+| Jumping Joya | Tước dược chưởng | 雀跃掌 | 뛰는기쁨 | Прыгучая рада | Tước Dược Chưởng | Trang trí, xương rồng |
+| Sporechid | Bào tử lan | 孢子兰 | 포자난 | Споровик | Bào Tử Lan | Trang trí nhưng sinh Zombie Spores |
+| Ring Rosebush | Hoàn mai hoa | 环玫花 | 고리장미나무 | Кольцевая роза | Hoàn Mai Hoa | Trang trí |
+| Bliss Burst | Hoa chân phúc | 极乐刺 | 지복파열 | Вспышка блаженства | Cực Lạc Thích | Trang trí |
+| Tranquil Toes | Tĩnh chỉ | 安宁芷 | 잔잔발가락 | Легкопальцы | An Ninh Chỉ | Trang trí, lạnh |
+| Idylla Flower | Hoa băng tĩnh | 恬静花 | 아이딜라 꽃 | Цветок идиллы | Điềm Tĩnh Hoa | Trang trí, lạnh |
+| Bulbloom | Hoa bóng đèn | 灯泡花 | 구근꽃 | Бульцвет | Đăng Bào Hoa | Trang trí, phát sáng |
+| Thimble Reed | Cây lau | 顶针芦苇 | 골무갈대 | Тростневик | Đính Châm Lô Vi | Sợi lau, làm quần áo |
+| Dasha Saltvine | Sa diêm đằng | 沙盐藤 | 뿌림 소금덩굴 | Лоза-солевик | Sa Diêm Đằng | Hút Chlorine, thải muối |
+| Arbor Tree | Cây thông | 乔木树 | — | — | Kiều Mộc Thụ | Cây lớn, tạo gỗ |
+| Gas Grass | Thích khí thảo | 释气草 | 가스풀 | Газовая трава | Thích Khí Thảo | Cỏ ngoài hành tinh, Moo ăn |
+| Oxyfern | Dương xỉ | 氧齿蕨 | 산고사리 | Кислоротник | Dưỡng Xỉ Quyết | Hút CO2, thải O2 |
+| Wheezewort | Cây hàn tức | 冰息萝卜 | 씨근풀 | Морозный кокон | Băng Tức La Bặc | Cây làm lạnh |
+| Balm Lily | Hoa loa kèn | 芳香百合 | 아물나리 | Бальзамилия | Phương Hương Bách Hợp | Hoa thơm |
+| Alveo Vera | Tuyết tức hoa | 气囊芦荟 | 알베오 베라 | Алвео вера | Khí Nang Lô Hội | Tạo Oxylite từ CO2 + Ice |
+| Bonbon Tree | Cây kẹo mật | 糖心树 | 봉봉나무 | Конфетное дерево | Đường Tâm Thụ | Cây lạnh, tạo Nectar + Wood |
+| Lura Plant | Lộ nhĩ hoa | 露饵花 | 루라 식물 | Приман | Lộ Nhĩ Hoa | Cây ăn thịt, bẫy bay |
+| Seakomb | Rong lược biển | 海梳蕨 | 씨콤 | Водоческа | Hải Sơ Quyết | Thủy sinh, tạo lá |
+| Dew Dripper | Hoa sương tím | 露珠藤 | 이슬내리개 | Каплерос | Lộ Châu Đằng | Nhỏ sương → Brackene |
+| Hydrocactus | Tiên thủy chưởng | 仙水掌 | 수선인장 | Водокачкус | Tiên Thủy Chưởng | Xương rồng lọc nước |
+| Sodicane | Mía soda | 咸蔗 | 소디케인 | Натриевый тростник | Hàm Giá | Tạo muối soda |
+| Petta Pouf | Liễu bông | 蓬茸柳 | 페타푸프 | Пито-пуф | Bồng Nhung Liễu | Tạo sợi |
+| Tower Kelp | Tảo bẹ tháp | 塔藻 | 타워 켈프 | Высокоросль | Tháp Tảo | Thủy sinh, cao |
+| Pinpoket | Túi gai | 针胆团 | 핀포켓 | Игольчатые колючки | Châm Đảm Đoàn | Dưới nước |
+| Avari Vine | Tham đằng | 贪婪藤 | 아바리 덩굴 | Лоза авари | Tham Đằng | Dây leo mọc nhanh dưới đất |
+| Fervine | Nhiệt đằng | 丰饶藤蔓 | 뻗덩굴 | Пламенная лоза | Nhiệt Đằng | Củ = Củ nhiệt đằng |
+| Palmera Tree | Cây cọ clo | 葡果棕榈树 | 팔메라 나무 | Пальмера | — | Cây cọ sống trong khí Clo |
+| Experiment 52B | Thí nghiệm thể 52B | 试验体52B | 실험 52B | Эксперимент 52B | Thí Nghiệm Thể 52B | Cây đặc biệt, tiết nhựa |
+| Flox | Hồ lộc | 狐鹿 | 플록스 | Лисень | Hồ Lộc | Cắt sừng lấy gỗ/thủy tinh |
+| Gum Palm | Cọ cao su | 粘胶棕榈 | 껌야자 | Резиновая пальма | Niêm Giao Tông Lư | Tạo nhựa |
 
 ### Chỉ số & Trạng thái
 
